@@ -124,10 +124,21 @@ Message :
 
             msg.attach(MIMEText(body, "plain"))
 
-            server = smtplib.SMTP("smtp.gmail.com", 587)
+            print("Connecting to Gmail...")
+
+            server = smtplib.SMTP("smtp.gmail.com", 587, timeout=10)
+
+            print("Connected!")
+
             server.starttls()
+            print("TLS Started!")
+
             server.login(sender_email, app_password)
+            print("Logged In!")
+
             server.send_message(msg)
+            print("Mail Sent!")
+
             server.quit()
 
             print("✅ Email Sent Successfully!")
