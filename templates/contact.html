@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact | MediScan AI</title>
+
+    <link rel="stylesheet"
+        href="{{ url_for('static', filename='css/contact.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar">
+
+        <div class="logo">
+            🩺 MediScan AI
+        </div>
+
+        <ul class="nav-links">
+
+            <li><a href="/">Home</a></li>
+
+            <li><a href="/about">About</a></li>
+
+            <li><a href="/features">Features</a></li>
+
+            <li><a href="/contact">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+    <!--================ HERO SECTION ================-->
+
+    <section class="contact-hero">
+
+        <div class="hero-content">
+
+            <h1>Get In Touch</h1>
+
+            <p>
+
+                We'd love to hear from you. If you have any questions,
+                suggestions, or feedback about MediScan AI, feel free to
+                contact us anytime.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!--================ CONTACT SECTION ================-->
+
+    <section class="contact-section">
+
+        <div class="contact-container">
+
+            <!-- LEFT -->
+
+            <div class="contact-info">
+
+                <h2>Contact Information</h2>
+
+                <p>
+
+                    Feel free to reach out to us for project related
+                    queries, collaboration or feedback.
+
+                </p>
+
+                <div class="info-box">
+
+                    <i class="fa-solid fa-envelope"></i>
+
+                    <div>
+
+                        <h3>Email</h3>
+
+                        <p>yourmail@gmail.com</p>
+
+                    </div>
+
+                </div>
+
+                <div class="info-box">
+
+                    <i class="fa-solid fa-phone"></i>
+
+                    <div>
+
+                        <h3>Phone</h3>
+
+                        <p>+91 XXXXX XXXXX</p>
+
+                    </div>
+
+                </div>
+
+                <div class="info-box">
+
+                    <i class="fa-solid fa-location-dot"></i>
+
+                    <div>
+
+                        <h3>Location</h3>
+
+                        <p>Maharashtra, India</p>
+
+                    </div>
+
+                </div>
+
+                <div class="info-box">
+
+                    <i class="fa-brands fa-github"></i>
+
+                    <div>
+
+                        <h3>GitHub</h3>
+
+                        <p>github.com/yourusername</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- RIGHT -->
+
+            <div class="contact-form">
+
+                <h2>Send Message</h2>
+
+                {% if success %}
+                <div class="success-message">
+                    {{ success }}
+                </div>
+                {% endif %}
+
+                <form action="/contact" method="POST">
+
+                    <div class="input-box">
+
+                        <input type="text" name="name" placeholder="Full Name" required>
+
+                    </div>
+
+                    <div class="input-box">
+
+                       <input type="email" name="email" placeholder="Email Address" required>
+
+                    </div>
+
+                    <div class="input-box">
+
+                       <input type="text" name="subject" placeholder="Subject" required>
+
+                    </div>
+
+                    <div class="input-box">
+
+                        <textarea name="message" rows="7" placeholder="Write your message..." required></textarea>
+
+                    </div>
+
+                    <button type="submit">
+
+                        <i class="fa-solid fa-paper-plane"></i>
+
+                        Send Message
+
+                    </button>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!--================ DEVELOPER SECTION ================-->
+
+    <section class="developer">
+
+        <div class="developer-container">
+
+            <div class="developer-card">
+
+                <div class="developer-image">
+
+                    <i class="fa-solid fa-user-doctor"></i>
+
+                </div>
+
+                <div class="developer-content">
+
+                    <h2>Developer</h2>
+
+                    <h3>Omkar Ghorband</h3>
+
+                    <p>
+
+                        B.Sc. Computer Science Student
+
+                    </p>
+
+                    <p>
+
+                        Developer of <strong>MediScan AI</strong>, an AI-powered
+                        Prescription Analyzer built using Python, Flask,
+                        Tesseract OCR and RapidFuzz.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!--================ SOCIAL MEDIA ================-->
+
+    <section class="social-section">
+
+        <h2>Connect With Us</h2>
+
+        <div class="social-icons">
+
+            <a href="#"><i class="fa-brands fa-github"></i></a>
+
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+
+            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+
+        </div>
+
+    </section>
+
+
+    <!--================ PROJECT STATS ================-->
+
+    <section class="stats">
+
+        <div class="stats-container">
+
+            <div class="stat-box">
+
+                <h1>600+</h1>
+
+                <p>Medicines Database</p>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h1>OCR</h1>
+
+                <p>Text Extraction</p>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h1>AI</h1>
+
+                <p>Medicine Recognition</p>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h1>PDF</h1>
+
+                <p>Report Generation</p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!--================ THANK YOU SECTION ================-->
+
+    <section class="thank-you">
+
+        <h2>Thank You For Visiting MediScan AI</h2>
+
+        <p>
+
+            We appreciate your interest in our project.
+            Your feedback helps us improve and build better healthcare
+            technology solutions.
+
+        </p>
+
+    </section>
+
+
+    <!--================ FOOTER ================-->
+
+    <footer>
+
+        <div class="footer-content">
+
+            <h2>MediScan AI</h2>
+
+            <p>
+
+                AI Prescription Analyzer using OCR Technology
+
+            </p>
+
+            <p>
+
+                Developed by <strong>Omkar Ghorband</strong>
+
+            </p>
+
+            <p>
+
+                © 2026 All Rights Reserved.
+
+            </p>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>

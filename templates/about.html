@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | MediScan AI</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar">
+
+        <div class="logo">
+            🩺 MediScan AI
+        </div>
+
+        <ul class="nav-links">
+
+            <li><a href="/">Home</a></li>
+
+            <li><a href="/about">About</a></li>
+
+            <li><a href="/features">Features</a></li>
+
+            <li><a href="/contact">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+    <!-- ================= HERO ================= -->
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <h1>About MediScan AI</h1>
+
+            <p>
+
+                AI Prescription Analyzer is a smart healthcare web application
+                that extracts medicine information from doctor's prescriptions
+                using OCR technology and provides accurate medicine details in
+                an easy-to-understand format.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= ABOUT PROJECT ================= -->
+
+    <section class="about-section">
+
+        <div class="container">
+
+            <h2>About The Project</h2>
+
+            <p>
+
+                MediScan AI is designed to simplify the process of reading
+                handwritten and printed medical prescriptions. Patients often
+                find it difficult to understand medicine names, dosage, timing,
+                and duration prescribed by doctors.
+
+            </p>
+
+            <p>
+
+                This project uses Optical Character Recognition (OCR) to
+                extract text from prescription images. It then compares the
+                extracted medicine names with a medicine database and displays
+                useful information including medicine use, manufacturer,
+                approximate price, side effects, and alternatives.
+
+            </p>
+
+            <p>
+
+                The system also detects prescription details such as dosage,
+                medicine timing, and treatment duration, helping users better
+                understand their prescriptions.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= MISSION & VISION ================= -->
+
+    <section class="mission">
+
+        <div class="container">
+
+            <h2>Our Mission & Vision</h2>
+
+            <div class="cards">
+
+                <div class="card">
+
+                    <i class="fa-solid fa-bullseye"></i>
+
+                    <h3>Our Mission</h3>
+
+                    <p>
+
+                        To make medical prescriptions easier to understand by
+                        providing clear medicine information through Artificial
+                        Intelligence and OCR technology.
+
+                    </p>
+
+                </div>
+
+                <div class="card">
+
+                    <i class="fa-solid fa-eye"></i>
+
+                    <h3>Our Vision</h3>
+
+                    <p>
+
+                        To build an intelligent healthcare assistant that helps
+                        patients, students, and healthcare professionals access
+                        medicine information quickly and accurately.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= TECHNOLOGIES ================= -->
+
+<section class="technology">
+
+    <div class="container">
+
+        <h2>Technologies Used</h2>
+
+        <div class="tech-box">
+
+            <div class="tech-card">
+
+                <i class="fa-brands fa-python"></i>
+
+                <h3>Python</h3>
+
+                <p>
+                    Backend programming language used to build the AI
+                    Prescription Analyzer.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-solid fa-server"></i>
+
+                <h3>Flask</h3>
+
+                <p>
+                    Lightweight Python framework used to create the web
+                    application.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-solid fa-file-lines"></i>
+
+                <h3>Tesseract OCR</h3>
+
+                <p>
+                    Extracts handwritten and printed text from prescription
+                    images.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-solid fa-magnifying-glass"></i>
+
+                <h3>RapidFuzz</h3>
+
+                <p>
+                    Finds the closest medicine name even if OCR makes small
+                    spelling mistakes.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-brands fa-html5"></i>
+
+                <h3>HTML5</h3>
+
+                <p>
+                    Used for building the structure of the web application.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-brands fa-css3-alt"></i>
+
+                <h3>CSS3</h3>
+
+                <p>
+                    Creates a modern, responsive and attractive user interface.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-brands fa-js"></i>
+
+                <h3>JavaScript</h3>
+
+                <p>
+                    Adds interactivity and improves the user experience.
+                </p>
+
+            </div>
+
+            <div class="tech-card">
+
+                <i class="fa-solid fa-database"></i>
+
+                <h3>JSON Database</h3>
+
+                <p>
+                    Stores medicine information including uses, price, side
+                    effects and alternatives.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= HOW IT WORKS ================= -->
+
+<section class="workflow">
+
+    <div class="container">
+
+        <h2>How MediScan AI Works</h2>
+
+        <div class="steps">
+
+            <div class="step">
+                <span>1</span>
+                <h3>Upload Prescription</h3>
+                <p>
+                    Upload a handwritten or printed prescription image.
+                </p>
+            </div>
+
+            <div class="step">
+                <span>2</span>
+                <h3>OCR Processing</h3>
+                <p>
+                    Tesseract OCR extracts text from the uploaded image.
+                </p>
+            </div>
+
+            <div class="step">
+                <span>3</span>
+                <h3>Medicine Detection</h3>
+                <p>
+                    RapidFuzz matches medicine names with the medicine
+                    database.
+                </p>
+            </div>
+
+            <div class="step">
+                <span>4</span>
+                <h3>Display Results</h3>
+                <p>
+                    Shows medicine information, dosage, timing and duration.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= PROJECT STATS ================= -->
+
+<section class="stats">
+
+    <div class="container">
+
+        <h2>Project Statistics</h2>
+
+        <div class="stats-box">
+
+            <div class="stat-card">
+
+                <h1>600+</h1>
+
+                <p>Medicines</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h1>OCR</h1>
+
+                <p>Text Extraction</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h1>PDF</h1>
+
+                <p>Report Download</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h1>AI</h1>
+
+                <p>Medicine Detection</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= DEVELOPER ================= -->
+
+<section class="developer">
+
+    <div class="container">
+
+        <h2>Developer</h2>
+
+        <div class="developer-card">
+
+            <i class="fa-solid fa-user-doctor"></i>
+
+            <h3>Omkar Ghorband</h3>
+
+            <p>
+
+                B.Sc. Computer Science Student
+
+            </p>
+
+            <p>
+
+                Developer of MediScan AI – AI Prescription Analyzer
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    <h2>MediScan AI</h2>
+
+    <p>
+
+        AI Prescription Analyzer using OCR Technology
+
+    </p>
+
+    <p>
+
+        © 2026 All Rights Reserved | Developed by Omkar Ghorband
+
+    </p>
+
+</footer>
+
+
+</body>
+
+</html>

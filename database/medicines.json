@@ -1,0 +1,5437 @@
+[
+  {
+    "name": "Dolo 650",
+    "uses": "Fever, body pain, headache",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Micro Labs",
+    "category": "Pain Reliever / Fever",
+    "side_effects": "Nausea, skin rash, allergic reaction (rare)",
+    "alternative": "Crocin 650"
+  },
+  {
+    "name": "Crocin 650",
+    "uses": "Fever, headache, body pain",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Pain Reliever / Fever",
+    "side_effects": "Nausea, liver damage (overdose)",
+    "alternative": "Dolo 650"
+  },
+  {
+    "name": "Calpol 650",
+    "uses": "Fever and pain relief",
+    "price": "Rs. 34 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Pain Reliever",
+    "side_effects": "Skin rash, nausea",
+    "alternative": "Dolo 650"
+  },
+  {
+    "name": "Combiflam",
+    "uses": "Pain, fever, inflammation",
+    "price": "Rs. 40 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity, stomach pain",
+    "alternative": "Ibuprofen + Paracetamol"
+  },
+  {
+    "name": "Pantop 40",
+    "uses": "Acidity, GERD, stomach ulcer",
+    "price": "Rs. 120 (Approx.)",
+    "manufacturer": "Aristo",
+    "category": "Acidity",
+    "side_effects": "Headache, diarrhea",
+    "alternative": "Pantocid 40"
+  },
+  {
+    "name": "Pantocid 40",
+    "uses": "Acidity and gastric problems",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Acidity",
+    "side_effects": "Constipation, headache",
+    "alternative": "Pantop 40"
+  },
+  {
+    "name": "Pan 40",
+    "uses": "Acidity and gastric reflux",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Acidity",
+    "side_effects": "Headache",
+    "alternative": "Pantop 40"
+  },
+  {
+    "name": "Omez 20",
+    "uses": "Acidity and stomach ulcer",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Acidity",
+    "side_effects": "Nausea",
+    "alternative": "Omeprazole"
+  },
+  {
+    "name": "Azithral 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Alembic",
+    "category": "Antibiotic",
+    "side_effects": "Loose motions, nausea",
+    "alternative": "Azee 500"
+  },
+  {
+    "name": "Azee 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Stomach pain",
+    "alternative": "Azithral 500"
+  },
+  {
+    "name": "Augmentin 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, nausea",
+    "alternative": "Amoxyclav 625"
+  },
+  {
+    "name": "Amoxyclav 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Antibiotic",
+    "side_effects": "Vomiting, diarrhea",
+    "alternative": "Augmentin 625"
+  },
+  {
+    "name": "Cetirizine",
+    "uses": "Allergy, itching, sneezing",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Sleepiness",
+    "alternative": "Levocetirizine"
+  },
+  {
+    "name": "Levocetirizine",
+    "uses": "Allergy and cold symptoms",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Drowsiness",
+    "alternative": "Cetirizine"
+  },
+  {
+    "name": "Allegra 120",
+    "uses": "Seasonal allergy",
+    "price": "Rs. 220 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Allergy",
+    "side_effects": "Headache",
+    "alternative": "Fexofenadine"
+  },
+  {
+    "name": "Limcee 500",
+    "uses": "Vitamin C deficiency",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Vitamin",
+    "side_effects": "Upset stomach",
+    "alternative": "Celin 500"
+  },
+  {
+    "name": "Shelcal 500",
+    "uses": "Calcium deficiency",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Calcimax"
+  },
+  {
+    "name": "Neurobion Forte",
+    "uses": "Vitamin B deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "P&G Health",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Becosules"
+  },
+  {
+    "name": "Becosules",
+    "uses": "Vitamin B complex deficiency",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Neurobion Forte"
+  },
+  {
+    "name": "Zincovit",
+    "uses": "Multivitamin supplement",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Apex",
+    "category": "Supplement",
+    "side_effects": "Nausea",
+    "alternative": "Supradyn"
+  }
+
+,
+{
+    "name": "Levocetirizine",
+    "uses": "Allergy, sneezing, itching",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Drowsiness, dry mouth",
+    "alternative": "Cetirizine"
+},
+{
+    "name": "Allegra 120",
+    "uses": "Seasonal allergy",
+    "price": "Rs. 220 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Allergy",
+    "side_effects": "Headache, nausea",
+    "alternative": "Fexofenadine"
+},
+{
+    "name": "Montair LC",
+    "uses": "Allergy, allergic rhinitis",
+    "price": "Rs. 265 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Allergy",
+    "side_effects": "Sleepiness, headache",
+    "alternative": "Montek LC"
+},
+{
+    "name": "Montek LC",
+    "uses": "Allergy and sneezing",
+    "price": "Rs. 250 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Allergy",
+    "side_effects": "Drowsiness",
+    "alternative": "Montair LC"
+},
+{
+    "name": "Limcee 500",
+    "uses": "Vitamin C deficiency",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Vitamin",
+    "side_effects": "Upset stomach",
+    "alternative": "Celin 500"
+},
+{
+    "name": "Celin 500",
+    "uses": "Vitamin C supplement",
+    "price": "Rs. 30 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Vitamin",
+    "side_effects": "Stomach upset",
+    "alternative": "Limcee 500"
+},
+{
+    "name": "Shelcal 500",
+    "uses": "Calcium deficiency",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Calcimax"
+},
+{
+    "name": "Calcimax",
+    "uses": "Calcium and Vitamin D deficiency",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Meyer",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Shelcal 500"
+},
+{
+    "name": "Neurobion Forte",
+    "uses": "Vitamin B deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "P&G Health",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Becosules"
+},
+{
+    "name": "Becosules",
+    "uses": "Vitamin B Complex deficiency",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Neurobion Forte"
+},
+{
+    "name": "Zincovit",
+    "uses": "Multivitamin supplement",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Apex",
+    "category": "Supplement",
+    "side_effects": "Nausea",
+    "alternative": "Supradyn"
+},
+{
+    "name": "Supradyn",
+    "uses": "Vitamin and mineral deficiency",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Supplement",
+    "side_effects": "Stomach upset",
+    "alternative": "Zincovit"
+},
+{
+    "name": "Digene",
+    "uses": "Acidity, gas, indigestion",
+    "price": "Rs. 180 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Antacid",
+    "side_effects": "Constipation, diarrhea",
+    "alternative": "Gelusil"
+},
+{
+    "name": "Gelusil",
+    "uses": "Acidity and heartburn",
+    "price": "Rs. 170 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Antacid",
+    "side_effects": "Constipation",
+    "alternative": "Digene"
+},
+{
+    "name": "ENO",
+    "uses": "Quick relief from acidity",
+    "price": "Rs. 10 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Antacid",
+    "side_effects": "High sodium intake",
+    "alternative": "Digene"
+},
+{
+    "name": "Ascoril",
+    "uses": "Cough with mucus",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Cough",
+    "side_effects": "Dizziness, nausea",
+    "alternative": "Alex Syrup"
+},
+{
+    "name": "Alex Syrup",
+    "uses": "Dry cough",
+    "price": "Rs. 130 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Cough",
+    "side_effects": "Sleepiness",
+    "alternative": "Ascoril"
+},
+{
+    "name": "Benadryl",
+    "uses": "Cough and cold",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "Cough",
+    "side_effects": "Drowsiness",
+    "alternative": "Alex Syrup"
+},
+{
+    "name": "Sinarest",
+    "uses": "Cold, blocked nose, fever",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Centaur",
+    "category": "Cold",
+    "side_effects": "Sleepiness",
+    "alternative": "Wikoryl"
+},
+{
+    "name": "Wikoryl",
+    "uses": "Cold and fever",
+    "price": "Rs. 90 (Approx.)",
+    "manufacturer": "Alembic",
+    "category": "Cold",
+    "side_effects": "Drowsiness",
+    "alternative": "Sinarest"
+}
+
+
+
+,
+{
+    "name": "Metformin 500",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Diabetes",
+    "side_effects": "Nausea, diarrhea",
+    "alternative": "Glycomet 500"
+},
+{
+    "name": "Glycomet 500",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 34 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Diabetes",
+    "side_effects": "Stomach upset",
+    "alternative": "Metformin 500"
+},
+{
+    "name": "Glycomet GP 1",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Diabetes",
+    "side_effects": "Low blood sugar",
+    "alternative": "Amaryl M1"
+},
+{
+    "name": "Amaryl M1",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 210 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Diabetes",
+    "side_effects": "Hypoglycemia",
+    "alternative": "Glycomet GP 1"
+},
+{
+    "name": "Janumet 50/500",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 420 (Approx.)",
+    "manufacturer": "MSD",
+    "category": "Diabetes",
+    "side_effects": "Headache, nausea",
+    "alternative": "Istamet"
+},
+{
+    "name": "Istamet",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Diabetes",
+    "side_effects": "Diarrhea",
+    "alternative": "Janumet"
+},
+{
+    "name": "Telma 40",
+    "uses": "High Blood Pressure",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Blood Pressure",
+    "side_effects": "Dizziness",
+    "alternative": "Telmikind 40"
+},
+{
+    "name": "Telmikind 40",
+    "uses": "High Blood Pressure",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Blood Pressure",
+    "side_effects": "Low blood pressure",
+    "alternative": "Telma 40"
+},
+{
+    "name": "Amlodipine 5",
+    "uses": "High Blood Pressure",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Blood Pressure",
+    "side_effects": "Swelling of feet",
+    "alternative": "Amlokind 5"
+},
+{
+    "name": "Amlokind 5",
+    "uses": "Hypertension",
+    "price": "Rs. 40 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Blood Pressure",
+    "side_effects": "Headache",
+    "alternative": "Amlodipine 5"
+},
+{
+    "name": "Losartan 50",
+    "uses": "High Blood Pressure",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Blood Pressure",
+    "side_effects": "Dizziness",
+    "alternative": "Losar 50"
+},
+{
+    "name": "Losar 50",
+    "uses": "Hypertension",
+    "price": "Rs. 90 (Approx.)",
+    "manufacturer": "Unichem",
+    "category": "Blood Pressure",
+    "side_effects": "Fatigue",
+    "alternative": "Losartan 50"
+},
+{
+    "name": "Ecosprin 75",
+    "uses": "Heart protection, blood thinner",
+    "price": "Rs. 22 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Heart",
+    "side_effects": "Bleeding risk",
+    "alternative": "Aspirin 75"
+},
+{
+    "name": "Clopitab 75",
+    "uses": "Prevent blood clots",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Heart",
+    "side_effects": "Bleeding",
+    "alternative": "Clopidogrel 75"
+},
+{
+    "name": "Atorva 10",
+    "uses": "High Cholesterol",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Zydus",
+    "category": "Cholesterol",
+    "side_effects": "Muscle pain",
+    "alternative": "Atorlip 10"
+},
+{
+    "name": "Atorlip 10",
+    "uses": "High Cholesterol",
+    "price": "Rs. 140 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Cholesterol",
+    "side_effects": "Muscle weakness",
+    "alternative": "Atorva 10"
+},
+{
+    "name": "Thyronorm 50",
+    "uses": "Hypothyroidism",
+    "price": "Rs. 180 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Thyroid",
+    "side_effects": "Palpitations (overdose)",
+    "alternative": "Eltroxin 50"
+},
+{
+    "name": "Eltroxin 50",
+    "uses": "Hypothyroidism",
+    "price": "Rs. 170 (Approx.)",
+    "manufacturer": "Glaxo",
+    "category": "Thyroid",
+    "side_effects": "Rapid heartbeat",
+    "alternative": "Thyronorm 50"
+},
+{
+    "name": "Liv 52",
+    "uses": "Liver support",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Liver",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Liver Tonic"
+},
+{
+    "name": "ORS Powder",
+    "uses": "Dehydration, diarrhea",
+    "price": "Rs. 22 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Rehydration",
+    "side_effects": "Usually well tolerated",
+    "alternative": "Electral"
+},
+{
+    "name": "Cefixime 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, nausea",
+    "alternative": "Taxim-O 200"
+},
+{
+    "name": "Taxim-O 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Antibiotic",
+    "side_effects": "Stomach pain",
+    "alternative": "Cefixime 200"
+},
+{
+    "name": "Cefpodoxime 200",
+    "uses": "Respiratory and urinary infections",
+    "price": "Rs. 210 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea",
+    "alternative": "Cepodem 200"
+},
+{
+    "name": "Cepodem 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 205 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Cefpodoxime 200"
+},
+{
+    "name": "Ofloxacin 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Dizziness",
+    "alternative": "Oflomac 200"
+},
+{
+    "name": "Oflomac 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Ofloxacin 200"
+},
+{
+    "name": "Norflox TZ",
+    "uses": "Diarrhea and intestinal infections",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Stomach upset",
+    "alternative": "Norfloxacin"
+},
+{
+    "name": "Doxycycline 100",
+    "uses": "Bacterial infections",
+    "price": "Rs. 62 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Photosensitivity",
+    "alternative": "Doxicip 100"
+},
+{
+    "name": "Doxicip 100",
+    "uses": "Bacterial infections",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Doxycycline 100"
+},
+{
+    "name": "Moxikind CV 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 180 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea",
+    "alternative": "Augmentin 625"
+},
+{
+    "name": "Ibuprofen 400",
+    "uses": "Pain and inflammation",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity",
+    "alternative": "Brufen 400"
+},
+{
+    "name": "Brufen 400",
+    "uses": "Pain and swelling",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Pain Reliever",
+    "side_effects": "Stomach irritation",
+    "alternative": "Ibuprofen 400"
+},
+{
+    "name": "Diclofenac 50",
+    "uses": "Pain and inflammation",
+    "price": "Rs. 24 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity",
+    "alternative": "Voveran 50"
+},
+{
+    "name": "Voveran 50",
+    "uses": "Joint pain and inflammation",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Pain Reliever",
+    "side_effects": "Stomach pain",
+    "alternative": "Diclofenac 50"
+},
+{
+    "name": "Aceclofenac 100",
+    "uses": "Pain and arthritis",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Pain Reliever",
+    "side_effects": "Nausea",
+    "alternative": "Zerodol 100"
+},
+{
+    "name": "Zerodol 100",
+    "uses": "Pain and inflammation",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Ipca",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity",
+    "alternative": "Aceclofenac 100"
+},
+{
+    "name": "Tramadol 50",
+    "uses": "Moderate to severe pain",
+    "price": "Rs. 120 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Pain Reliever",
+    "side_effects": "Dizziness, sleepiness",
+    "alternative": "Ultracet"
+},
+{
+    "name": "Ultracet",
+    "uses": "Moderate pain",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Janssen",
+    "category": "Pain Reliever",
+    "side_effects": "Drowsiness",
+    "alternative": "Tramadol 50"
+},
+{
+    "name": "Meftal Spas",
+    "uses": "Abdominal cramps and menstrual pain",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Blue Cross",
+    "category": "Pain Reliever",
+    "side_effects": "Nausea",
+    "alternative": "Drotin M"
+},
+{
+    "name": "Drotin M",
+    "uses": "Abdominal pain and spasms",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Walter Bushnell",
+    "category": "Antispasmodic",
+    "side_effects": "Dizziness",
+    "alternative": "Meftal Spas"
+},
+{
+    "name": "Clotrimazole Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antifungal",
+    "side_effects": "Burning, irritation",
+    "alternative": "Candid Cream"
+},
+{
+    "name": "Candid Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Antifungal",
+    "side_effects": "Skin irritation",
+    "alternative": "Clotrimazole Cream"
+},
+{
+    "name": "Luliconazole Cream",
+    "uses": "Ringworm, athlete's foot",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antifungal",
+    "side_effects": "Redness, itching",
+    "alternative": "Lulifin Cream"
+},
+{
+    "name": "Lulifin Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 255 (Approx.)",
+    "manufacturer": "Leeford",
+    "category": "Antifungal",
+    "side_effects": "Skin irritation",
+    "alternative": "Luliconazole Cream"
+},
+{
+    "name": "Acyclovir 400",
+    "uses": "Herpes virus infection",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiviral",
+    "side_effects": "Headache, nausea",
+    "alternative": "Acivir 400"
+},
+{
+    "name": "Acivir 400",
+    "uses": "Herpes infection",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antiviral",
+    "side_effects": "Vomiting",
+    "alternative": "Acyclovir 400"
+},
+{
+    "name": "Montelukast 10",
+    "uses": "Asthma and allergy",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Asthma",
+    "side_effects": "Headache",
+    "alternative": "Montair 10"
+},
+{
+    "name": "Montair 10",
+    "uses": "Asthma prevention",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Asthma",
+    "side_effects": "Dizziness",
+    "alternative": "Montelukast 10"
+},
+{
+    "name": "Budecort Inhaler",
+    "uses": "Asthma control",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Asthma",
+    "side_effects": "Sore throat",
+    "alternative": "Foracort Inhaler"
+},
+{
+    "name": "Foracort Inhaler",
+    "uses": "Asthma and COPD",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Asthma",
+    "side_effects": "Hoarseness",
+    "alternative": "Budecort Inhaler"
+},
+{
+    "name": "Moxicip Eye Drops",
+    "uses": "Bacterial eye infection",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Eye Care",
+    "side_effects": "Eye irritation",
+    "alternative": "Moxifloxacin Eye Drops"
+},
+{
+    "name": "Refresh Tears",
+    "uses": "Dry eyes",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Eye Care",
+    "side_effects": "Temporary blurred vision",
+    "alternative": "Tear Drops"
+},
+{
+    "name": "Betadine Gargle",
+    "uses": "Sore throat",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Win-Medicare",
+    "category": "Antiseptic",
+    "side_effects": "Mild irritation",
+    "alternative": "Hexidine Gargle"
+},
+{
+    "name": "Hexidine Gargle",
+    "uses": "Mouth and throat infection",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "ICPA",
+    "category": "Antiseptic",
+    "side_effects": "Taste changes",
+    "alternative": "Betadine Gargle"
+},
+{
+    "name": "Volini Spray",
+    "uses": "Muscle pain",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Pain Relief",
+    "side_effects": "Skin irritation",
+    "alternative": "Move Spray"
+},
+{
+    "name": "Move Spray",
+    "uses": "Joint and muscle pain",
+    "price": "Rs. 210 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Pain Relief",
+    "side_effects": "Burning sensation",
+    "alternative": "Volini Spray"
+},
+{
+    "name": "Otrivin Nasal Drops",
+    "uses": "Blocked nose",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "ENT",
+    "side_effects": "Dry nose",
+    "alternative": "Nasivion"
+},
+{
+    "name": "Nasivion",
+    "uses": "Nasal congestion",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Procter & Gamble",
+    "category": "ENT",
+    "side_effects": "Nasal irritation",
+    "alternative": "Otrivin"
+},
+{
+    "name": "Evion 400",
+    "uses": "Vitamin E deficiency",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "Vitamin",
+    "side_effects": "Stomach upset",
+    "alternative": "Evion LC"
+},
+{
+    "name": "Folvite 5",
+    "uses": "Folic acid deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Folic Acid 5mg"
+},
+{
+    "name": "Rabeprazole 20",
+    "uses": "Acidity, GERD",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Acidity",
+    "side_effects": "Headache, constipation",
+    "alternative": "Rablet 20"
+},
+{
+    "name": "Rablet 20",
+    "uses": "Acidity and stomach ulcer",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Acidity",
+    "side_effects": "Nausea",
+    "alternative": "Rabeprazole 20"
+},
+{
+    "name": "Domstal",
+    "uses": "Vomiting and nausea",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Gastro",
+    "side_effects": "Dry mouth",
+    "alternative": "Domperidone"
+},
+{
+    "name": "Domperidone 10",
+    "uses": "Nausea and vomiting",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Gastro",
+    "side_effects": "Headache",
+    "alternative": "Domstal"
+},
+{
+    "name": "Ondem 4",
+    "uses": "Vomiting",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Antiemetic",
+    "side_effects": "Constipation",
+    "alternative": "Ondansetron 4"
+},
+{
+    "name": "Ondansetron 4",
+    "uses": "Vomiting and nausea",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiemetic",
+    "side_effects": "Headache",
+    "alternative": "Ondem 4"
+},
+{
+    "name": "Loperamide",
+    "uses": "Diarrhea",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Gastro",
+    "side_effects": "Constipation",
+    "alternative": "Imodium"
+},
+{
+    "name": "Imodium",
+    "uses": "Acute diarrhea",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "J&J",
+    "category": "Gastro",
+    "side_effects": "Stomach discomfort",
+    "alternative": "Loperamide"
+},
+{
+    "name": "Albendazole 400",
+    "uses": "Worm infection",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiparasitic",
+    "side_effects": "Stomach pain",
+    "alternative": "Zentel 400"
+},
+{
+    "name": "Zentel 400",
+    "uses": "Intestinal worm infection",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Antiparasitic",
+    "side_effects": "Nausea",
+    "alternative": "Albendazole 400"
+},
+{
+    "name": "Meftal 500",
+    "uses": "Pain and fever",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "Blue Cross",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity",
+    "alternative": "Paracetamol"
+},
+{
+    "name": "Nise 100",
+    "uses": "Pain and inflammation",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Pain Reliever",
+    "side_effects": "Liver damage with prolonged use",
+    "alternative": "Nimesulide 100"
+},
+{
+    "name": "Nimesulide 100",
+    "uses": "Pain and fever",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Pain Reliever",
+    "side_effects": "Liver problems",
+    "alternative": "Nise 100"
+},
+{
+    "name": "Flexon",
+    "uses": "Pain and fever",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Aristo",
+    "category": "Pain Reliever",
+    "side_effects": "Acidity",
+    "alternative": "Combiflam"
+},
+{
+    "name": "Betnovate Cream",
+    "uses": "Skin allergy and eczema",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Skin",
+    "side_effects": "Skin thinning with prolonged use",
+    "alternative": "Beclomethasone Cream"
+},
+{
+    "name": "Soframycin Cream",
+    "uses": "Minor skin infections",
+    "price": "Rs. 92 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Skin",
+    "side_effects": "Local irritation",
+    "alternative": "T-Bact Cream"
+},
+{
+    "name": "T-Bact Cream",
+    "uses": "Bacterial skin infection",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Skin",
+    "side_effects": "Burning sensation",
+    "alternative": "Soframycin Cream"
+},
+{
+    "name": "Mupirocin Ointment",
+    "uses": "Bacterial skin infection",
+    "price": "Rs. 178 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Skin",
+    "side_effects": "Itching",
+    "alternative": "T-Bact Cream"
+},
+{
+    "name": "Silverex Cream",
+    "uses": "Burn wounds",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Burn Care",
+    "side_effects": "Skin irritation",
+    "alternative": "Silver Sulfadiazine Cream"
+},
+{
+    "name": "Silver Sulfadiazine Cream",
+    "uses": "Burn wound infection prevention",
+    "price": "Rs. 150 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Burn Care",
+    "side_effects": "Burning sensation",
+    "alternative": "Silverex Cream"
+},
+{
+    "name": "Pregabalin 75",
+    "uses": "Nerve pain, neuropathy",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Neurology",
+    "side_effects": "Dizziness, sleepiness",
+    "alternative": "Pregalin 75"
+},
+{
+    "name": "Pregalin 75",
+    "uses": "Nerve pain",
+    "price": "Rs. 178 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Neurology",
+    "side_effects": "Blurred vision",
+    "alternative": "Pregabalin 75"
+},
+{
+    "name": "Gabapin 300",
+    "uses": "Neuropathic pain, seizures",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Neurology",
+    "side_effects": "Sleepiness",
+    "alternative": "Gabapentin 300"
+},
+{
+    "name": "Gabapentin 300",
+    "uses": "Nerve pain",
+    "price": "Rs. 210 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Neurology",
+    "side_effects": "Dizziness",
+    "alternative": "Gabapin 300"
+},
+{
+    "name": "Levipil 500",
+    "uses": "Epilepsy",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Neurology",
+    "side_effects": "Weakness, sleepiness",
+    "alternative": "Levetiracetam 500"
+},
+{
+    "name": "Levetiracetam 500",
+    "uses": "Seizures",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Neurology",
+    "side_effects": "Dizziness",
+    "alternative": "Levipil 500"
+},
+{
+    "name": "Clonazepam 0.5",
+    "uses": "Anxiety, panic disorder",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Psychiatry",
+    "side_effects": "Drowsiness",
+    "alternative": "Clonotril 0.5"
+},
+{
+    "name": "Clonotril 0.5",
+    "uses": "Anxiety",
+    "price": "Rs. 58 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Psychiatry",
+    "side_effects": "Sleepiness",
+    "alternative": "Clonazepam 0.5"
+},
+{
+    "name": "Escitalopram 10",
+    "uses": "Depression and anxiety",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Psychiatry",
+    "side_effects": "Nausea, headache",
+    "alternative": "Nexito 10"
+},
+{
+    "name": "Nexito 10",
+    "uses": "Depression",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Psychiatry",
+    "side_effects": "Dry mouth",
+    "alternative": "Escitalopram 10"
+},
+{
+    "name": "Lasix 40",
+    "uses": "Edema, high blood pressure",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Kidney",
+    "side_effects": "Frequent urination",
+    "alternative": "Furosemide 40"
+},
+{
+    "name": "Furosemide 40",
+    "uses": "Fluid retention",
+    "price": "Rs. 25 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Kidney",
+    "side_effects": "Low potassium",
+    "alternative": "Lasix 40"
+},
+{
+    "name": "Sporlac",
+    "uses": "Diarrhea, restore gut flora",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Sanzyme",
+    "category": "Probiotic",
+    "side_effects": "Gas, bloating",
+    "alternative": "Econorm"
+},
+{
+    "name": "Econorm",
+    "uses": "Diarrhea, probiotic",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Probiotic",
+    "side_effects": "Gas",
+    "alternative": "Sporlac"
+},
+{
+    "name": "Pause 500",
+    "uses": "Heavy menstrual bleeding",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Emcure",
+    "category": "Women's Health",
+    "side_effects": "Nausea",
+    "alternative": "Tranexamic Acid 500"
+},
+{
+    "name": "Tranexamic Acid 500",
+    "uses": "Control bleeding",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Women's Health",
+    "side_effects": "Headache",
+    "alternative": "Pause 500"
+},
+{
+    "name": "Iron Folic Acid",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Autrin"
+},
+{
+    "name": "Autrin",
+    "uses": "Iron deficiency",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Supplement",
+    "side_effects": "Black stools",
+    "alternative": "Iron Folic Acid"
+},
+{
+    "name": "Dexorange Syrup",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Franco-Indian",
+    "category": "Supplement",
+    "side_effects": "Stomach upset",
+    "alternative": "Autrin Syrup"
+},
+{
+    "name": "Autrin Syrup",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 170 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Dexorange Syrup"
+},
+{
+    "name": "Amoxicillin 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, nausea",
+    "alternative": "Amoxycillin 500"
+},
+{
+    "name": "Amoxyclav 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 180 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, stomach upset",
+    "alternative": "Augmentin 625"
+},
+{
+    "name": "Ciprofloxacin 500",
+    "uses": "Urinary tract and bacterial infections",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Nausea, dizziness",
+    "alternative": "Ciplox 500"
+},
+{
+    "name": "Ciplox 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Stomach upset",
+    "alternative": "Ciprofloxacin 500"
+},
+{
+    "name": "Levofloxacin 500",
+    "uses": "Respiratory and urinary infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Headache, nausea",
+    "alternative": "Levoquin 500"
+},
+{
+    "name": "Levoquin 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Dizziness",
+    "alternative": "Levofloxacin 500"
+},
+{
+    "name": "Rantac 150",
+    "uses": "Acidity and gastric ulcer",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "J.B. Chemicals",
+    "category": "Acidity",
+    "side_effects": "Headache",
+    "alternative": "Ranitidine 150"
+},
+{
+    "name": "Ranitidine 150",
+    "uses": "Acidity",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Acidity",
+    "side_effects": "Constipation",
+    "alternative": "Rantac 150"
+},
+{
+    "name": "Gaviscon",
+    "uses": "Heartburn and acid reflux",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Antacid",
+    "side_effects": "Bloating",
+    "alternative": "Digene"
+},
+{
+    "name": "Cremaffin",
+    "uses": "Constipation",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Laxative",
+    "side_effects": "Loose stools",
+    "alternative": "Lactulose"
+},
+{
+    "name": "Duphalac",
+    "uses": "Constipation",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Laxative",
+    "side_effects": "Gas, bloating",
+    "alternative": "Lactulose"
+},
+{
+    "name": "Lactulose Syrup",
+    "uses": "Constipation",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Laxative",
+    "side_effects": "Gas",
+    "alternative": "Duphalac"
+},
+{
+    "name": "Bandy Plus",
+    "uses": "Worm infestation",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Antiparasitic",
+    "side_effects": "Nausea",
+    "alternative": "Albendazole 400"
+},
+{
+    "name": "Betnesol",
+    "uses": "Inflammation and allergies",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Steroid",
+    "side_effects": "Increased appetite",
+    "alternative": "Prednisolone"
+},
+{
+    "name": "Prednisolone 10",
+    "uses": "Inflammation and autoimmune disorders",
+    "price": "Rs. 58 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Steroid",
+    "side_effects": "Weight gain",
+    "alternative": "Betnesol"
+},
+{
+    "name": "Deriphyllin",
+    "uses": "Asthma and breathing difficulty",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Zydus",
+    "category": "Asthma",
+    "side_effects": "Palpitations",
+    "alternative": "Theophylline"
+},
+{
+    "name": "Theophylline",
+    "uses": "Asthma and COPD",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Asthma",
+    "side_effects": "Nausea, tremors",
+    "alternative": "Deriphyllin"
+},
+{
+    "name": "Benadon",
+    "uses": "Vitamin B6 deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Pyridoxine"
+},
+{
+    "name": "Pyridoxine 25",
+    "uses": "Vitamin B6 deficiency",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Benadon"
+},
+{
+    "name": "Sucral-O Suspension",
+    "uses": "Stomach ulcer and acidity",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Gastro",
+    "side_effects": "Constipation",
+    "alternative": "Sucralfate Suspension"
+},
+{
+    "name": "Tamsulosin 0.4",
+    "uses": "Benign Prostatic Hyperplasia (BPH), difficulty in urination",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Urology",
+    "side_effects": "Dizziness, headache",
+    "alternative": "Urimax 0.4"
+},
+{
+    "name": "Urimax 0.4",
+    "uses": "Enlarged prostate",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Urology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Tamsulosin 0.4"
+},
+{
+    "name": "Cystone",
+    "uses": "Kidney stones and urinary tract health",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Kidney",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Neeri"
+},
+{
+    "name": "Neeri",
+    "uses": "Kidney stone support",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Aimil",
+    "category": "Kidney",
+    "side_effects": "Rare stomach discomfort",
+    "alternative": "Cystone"
+},
+{
+    "name": "Calpol 250 Syrup",
+    "uses": "Fever and pain in children",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Pediatric",
+    "side_effects": "Nausea",
+    "alternative": "Crocin Baby Syrup"
+},
+{
+    "name": "Crocin Baby Syrup",
+    "uses": "Fever in children",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Pediatric",
+    "side_effects": "Skin rash (rare)",
+    "alternative": "Calpol 250 Syrup"
+},
+{
+    "name": "Meftal P Syrup",
+    "uses": "Fever and pain in children",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Blue Cross",
+    "category": "Pediatric",
+    "side_effects": "Acidity",
+    "alternative": "Calpol Syrup"
+},
+{
+    "name": "Zincovit Syrup",
+    "uses": "Vitamin deficiency in children",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Apex",
+    "category": "Pediatric",
+    "side_effects": "Stomach upset",
+    "alternative": "Supradyn Syrup"
+},
+{
+    "name": "Supradyn Syrup",
+    "uses": "Multivitamin supplement",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Pediatric",
+    "side_effects": "Nausea",
+    "alternative": "Zincovit Syrup"
+},
+{
+    "name": "Hexigel",
+    "uses": "Mouth ulcers and gum infection",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "ICPA",
+    "category": "Dental",
+    "side_effects": "Temporary taste change",
+    "alternative": "Mucopain Gel"
+},
+{
+    "name": "Mucopain Gel",
+    "uses": "Mouth ulcer pain relief",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Dental",
+    "side_effects": "Temporary numbness",
+    "alternative": "Hexigel"
+},
+{
+    "name": "Sensodyne Repair",
+    "uses": "Sensitive teeth",
+    "price": "Rs. 180 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Dental",
+    "side_effects": "Rare allergic reaction",
+    "alternative": "Colgate Sensitive"
+},
+{
+    "name": "Colgate Sensitive",
+    "uses": "Tooth sensitivity",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Colgate",
+    "category": "Dental",
+    "side_effects": "Rare gum irritation",
+    "alternative": "Sensodyne Repair"
+},
+{
+    "name": "Volini Gel",
+    "uses": "Muscle pain and sprain",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Orthopedic",
+    "side_effects": "Skin irritation",
+    "alternative": "Moov Gel"
+},
+{
+    "name": "Moov Gel",
+    "uses": "Joint and muscle pain",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Orthopedic",
+    "side_effects": "Burning sensation",
+    "alternative": "Volini Gel"
+},
+{
+    "name": "Nitroglycerin 2.6",
+    "uses": "Chest pain (Angina)",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Headache, dizziness",
+    "alternative": "Nitrocontin 2.6"
+},
+{
+    "name": "Nitrocontin 2.6",
+    "uses": "Angina",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Nitroglycerin 2.6"
+},
+{
+    "name": "Isordil 5",
+    "uses": "Chest pain",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Isosorbide Dinitrate"
+},
+{
+    "name": "Isosorbide Dinitrate",
+    "uses": "Angina",
+    "price": "Rs. 82 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Isordil 5"
+},
+{
+    "name": "Adrenaline Injection",
+    "uses": "Severe allergic reaction (Anaphylaxis), emergency treatment",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Emergency",
+    "side_effects": "Fast heartbeat, anxiety",
+    "alternative": "Epinephrine Injection"
+}
+
+,
+{
+    "name": "Bisoprolol 5",
+    "uses": "High blood pressure, heart failure",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Slow heartbeat, dizziness",
+    "alternative": "Concor 5"
+},
+{
+    "name": "Concor 5",
+    "uses": "Hypertension",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "Cardiology",
+    "side_effects": "Fatigue",
+    "alternative": "Bisoprolol 5"
+},
+{
+    "name": "Carvedilol 6.25",
+    "uses": "Heart failure, hypertension",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness, fatigue",
+    "alternative": "Carca 6.25"
+},
+{
+    "name": "Carca 6.25",
+    "uses": "Heart failure",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Carvedilol 6.25"
+},
+{
+    "name": "Rosuvas 10",
+    "uses": "High cholesterol",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cholesterol",
+    "side_effects": "Muscle pain",
+    "alternative": "Rosuvastatin 10"
+},
+{
+    "name": "Rosuvastatin 10",
+    "uses": "High cholesterol",
+    "price": "Rs. 150 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cholesterol",
+    "side_effects": "Headache",
+    "alternative": "Rosuvas 10"
+},
+{
+    "name": "Fenofibrate 160",
+    "uses": "High triglycerides",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cholesterol",
+    "side_effects": "Stomach pain",
+    "alternative": "Lipicard 160"
+},
+{
+    "name": "Lipicard 160",
+    "uses": "High triglycerides",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Cholesterol",
+    "side_effects": "Nausea",
+    "alternative": "Fenofibrate 160"
+},
+{
+    "name": "Teneligliptin 20",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Diabetes",
+    "side_effects": "Headache",
+    "alternative": "Tenepride 20"
+},
+{
+    "name": "Tenepride 20",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Micro Labs",
+    "category": "Diabetes",
+    "side_effects": "Low blood sugar",
+    "alternative": "Teneligliptin 20"
+},
+{
+    "name": "Voglibose 0.2",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Diabetes",
+    "side_effects": "Gas, bloating",
+    "alternative": "Volibo 0.2"
+},
+{
+    "name": "Volibo 0.2",
+    "uses": "Control blood sugar after meals",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Diabetes",
+    "side_effects": "Flatulence",
+    "alternative": "Voglibose 0.2"
+},
+{
+    "name": "Glimiprex 1",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Diabetes",
+    "side_effects": "Hypoglycemia",
+    "alternative": "Glimepiride 1"
+},
+{
+    "name": "Glimepiride 1",
+    "uses": "Type 2 Diabetes",
+    "price": "Rs. 90 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Diabetes",
+    "side_effects": "Low blood sugar",
+    "alternative": "Glimiprex 1"
+},
+{
+    "name": "Levemir FlexPen",
+    "uses": "Diabetes (Insulin)",
+    "price": "Rs. 980 (Approx.)",
+    "manufacturer": "Novo Nordisk",
+    "category": "Insulin",
+    "side_effects": "Low blood sugar",
+    "alternative": "Lantus SoloStar"
+},
+{
+    "name": "Lantus SoloStar",
+    "uses": "Long-acting insulin",
+    "price": "Rs. 1050 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Insulin",
+    "side_effects": "Hypoglycemia",
+    "alternative": "Levemir FlexPen"
+},
+{
+    "name": "Budecort Respules",
+    "uses": "Asthma (Nebulization)",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Sore throat",
+    "alternative": "Pulmicort Respules"
+},
+{
+    "name": "Pulmicort Respules",
+    "uses": "Asthma treatment",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "AstraZeneca",
+    "category": "Respiratory",
+    "side_effects": "Hoarseness",
+    "alternative": "Budecort Respules"
+},
+{
+    "name": "Duolin Respules",
+    "uses": "COPD and Asthma",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Dry mouth",
+    "alternative": "Ipravent Respules"
+},
+{
+    "name": "Ipravent Respules",
+    "uses": "Bronchospasm",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Cough",
+    "alternative": "Duolin Respules"
+},
+{
+    "name": "Mucolite Syrup",
+    "uses": "Productive cough",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Nausea",
+    "alternative": "Ambroxol Syrup"
+},
+{
+    "name": "Ambroxol Syrup",
+    "uses": "Cough with mucus",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Stomach upset",
+    "alternative": "Mucolite Syrup"
+},
+{
+    "name": "Amlodac 5",
+    "uses": "High blood pressure",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Zydus",
+    "category": "Blood Pressure",
+    "side_effects": "Swelling of ankles",
+    "alternative": "Amlodipine 5"
+},
+{
+    "name": "Olmesar 20",
+    "uses": "Hypertension",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Blood Pressure",
+    "side_effects": "Dizziness",
+    "alternative": "Olmesartan 20"
+},
+{
+    "name": "Olmesartan 20",
+    "uses": "High blood pressure",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Blood Pressure",
+    "side_effects": "Low blood pressure",
+    "alternative": "Olmesar 20"
+},
+{
+    "name": "Nebicard 5",
+    "uses": "Hypertension",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Blood Pressure",
+    "side_effects": "Fatigue",
+    "alternative": "Nebivolol 5"
+},
+{
+    "name": "Nebivolol 5",
+    "uses": "High blood pressure",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Blood Pressure",
+    "side_effects": "Headache",
+    "alternative": "Nebicard 5"
+},
+{
+    "name": "Dabur Honitus",
+    "uses": "Cough and sore throat",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Dabur",
+    "category": "Cough",
+    "side_effects": "Rare allergy",
+    "alternative": "Koflet Syrup"
+},
+{
+    "name": "Koflet Syrup",
+    "uses": "Cough relief",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Cough",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Honitus"
+},
+{
+    "name": "TusQ DX",
+    "uses": "Dry cough",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Zuventus",
+    "category": "Cough",
+    "side_effects": "Sleepiness",
+    "alternative": "Alex Syrup"
+},
+{
+    "name": "TusQ LS",
+    "uses": "Wet cough",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Zuventus",
+    "category": "Cough",
+    "side_effects": "Nausea",
+    "alternative": "Ascoril LS"
+},
+{
+    "name": "Ascoril LS",
+    "uses": "Productive cough",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Cough",
+    "side_effects": "Dizziness",
+    "alternative": "TusQ LS"
+},
+{
+    "name": "Candid Dusting Powder",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Skin",
+    "side_effects": "Skin irritation",
+    "alternative": "Abzorb Powder"
+},
+{
+    "name": "Abzorb Powder",
+    "uses": "Fungal infection and itching",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Skin",
+    "side_effects": "Dry skin",
+    "alternative": "Candid Dusting Powder"
+},
+{
+    "name": "Panderm Cream",
+    "uses": "Skin infection",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Skin",
+    "side_effects": "Skin irritation",
+    "alternative": "Quadriderm Cream"
+},
+{
+    "name": "Quadriderm Cream",
+    "uses": "Mixed skin infection",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Fulford",
+    "category": "Skin",
+    "side_effects": "Burning sensation",
+    "alternative": "Panderm Cream"
+},
+{
+    "name": "Ciplox Eye Drops",
+    "uses": "Eye infection",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Eye Care",
+    "side_effects": "Eye irritation",
+    "alternative": "Moxicip Eye Drops"
+},
+{
+    "name": "Refresh Liquigel",
+    "uses": "Dry eyes",
+    "price": "Rs. 325 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Eye Care",
+    "side_effects": "Temporary blurred vision",
+    "alternative": "Refresh Tears"
+},
+{
+    "name": "Betnesol Eye Drops",
+    "uses": "Eye inflammation",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Eye Care",
+    "side_effects": "Eye irritation",
+    "alternative": "Pred Forte Eye Drops"
+},
+{
+    "name": "Pred Forte Eye Drops",
+    "uses": "Eye inflammation",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Eye Care",
+    "side_effects": "Blurred vision",
+    "alternative": "Betnesol Eye Drops"
+},
+{
+    "name": "Electral Powder",
+    "uses": "Dehydration and electrolyte imbalance",
+    "price": "Rs. 24 (Approx.)",
+    "manufacturer": "FDC",
+    "category": "Rehydration",
+    "side_effects": "Usually well tolerated",
+    "alternative": "ORS Powder"
+},
+{
+    "name": "Protinex",
+    "uses": "Protein supplementation",
+    "price": "Rs. 495 (Approx.)",
+    "manufacturer": "Danone",
+    "category": "Nutrition",
+    "side_effects": "Bloating (rare)",
+    "alternative": "Ensure Powder"
+}
+
+,
+{
+    "name": "Ensure Powder",
+    "uses": "Nutritional supplement",
+    "price": "Rs. 650 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Nutrition",
+    "side_effects": "Bloating (rare)",
+    "alternative": "Protinex"
+},
+{
+    "name": "Pediasure",
+    "uses": "Child nutrition supplement",
+    "price": "Rs. 780 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Pediatric Nutrition",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Junior Horlicks"
+},
+{
+    "name": "Junior Horlicks",
+    "uses": "Nutrition for growing children",
+    "price": "Rs. 420 (Approx.)",
+    "manufacturer": "Hindustan Unilever",
+    "category": "Pediatric Nutrition",
+    "side_effects": "Rare allergy",
+    "alternative": "Pediasure"
+},
+{
+    "name": "Betadine Ointment",
+    "uses": "Cuts, wounds and burns",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Win-Medicare",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation",
+    "alternative": "Soframycin Ointment"
+},
+{
+    "name": "Savlon Antiseptic",
+    "uses": "Wound cleaning",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "ITC",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation",
+    "alternative": "Dettol Antiseptic"
+},
+{
+    "name": "Dettol Antiseptic",
+    "uses": "Disinfectant for cuts and wounds",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation",
+    "alternative": "Savlon Antiseptic"
+},
+{
+    "name": "Vitamin D3 60000",
+    "uses": "Vitamin D deficiency",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Constipation (rare)",
+    "alternative": "Uprise D3 60000"
+},
+{
+    "name": "Uprise D3 60000",
+    "uses": "Vitamin D deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Vitamin D3 60000"
+},
+{
+    "name": "Cobadex CZS",
+    "uses": "Multivitamin deficiency",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Supradyn"
+},
+{
+    "name": "Livogen",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Autrin"
+},
+{
+    "name": "Clavam 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea",
+    "alternative": "Augmentin 625"
+},
+{
+    "name": "Monocef-O 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Aristo",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Taxim-O 200"
+},
+{
+    "name": "Azax 500",
+    "uses": "Respiratory bacterial infections",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Ranbaxy",
+    "category": "Antibiotic",
+    "side_effects": "Loose motions",
+    "alternative": "Azithral 500"
+},
+{
+    "name": "Ceftum 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 285 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Antibiotic",
+    "side_effects": "Headache",
+    "alternative": "Cefuroxime 500"
+},
+{
+    "name": "Cefuroxime 500",
+    "uses": "Respiratory infections",
+    "price": "Rs. 265 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea",
+    "alternative": "Ceftum 500"
+},
+{
+    "name": "Roxid 150",
+    "uses": "Throat and chest infections",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Alembic",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Roxithromycin 150"
+},
+{
+    "name": "Roxithromycin 150",
+    "uses": "Bacterial infections",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Stomach pain",
+    "alternative": "Roxid 150"
+},
+{
+    "name": "Neosporin Powder",
+    "uses": "Minor cuts and wounds",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Glaxo",
+    "category": "Skin Care",
+    "side_effects": "Skin irritation",
+    "alternative": "Betadine Powder"
+},
+{
+    "name": "Betadine Powder",
+    "uses": "Wound care",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Win-Medicare",
+    "category": "Skin Care",
+    "side_effects": "Itching",
+    "alternative": "Neosporin Powder"
+},
+{
+    "name": "Burnol Cream",
+    "uses": "Minor burns",
+    "price": "Rs. 75 (Approx.)",
+    "manufacturer": "Dr. Morepen",
+    "category": "Burn Care",
+    "side_effects": "Temporary irritation",
+    "alternative": "Silverex Cream"
+}
+
+,
+{
+    "name": "Montek LC",
+    "uses": "Allergic rhinitis and seasonal allergies",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Allergy",
+    "side_effects": "Sleepiness, headache",
+    "alternative": "Montair LC"
+},
+{
+    "name": "Montair LC",
+    "uses": "Allergic rhinitis",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Allergy",
+    "side_effects": "Dry mouth",
+    "alternative": "Montek LC"
+},
+{
+    "name": "Levocet M",
+    "uses": "Allergy and sneezing",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Drowsiness",
+    "alternative": "Montek LC"
+},
+{
+    "name": "Telekast L",
+    "uses": "Allergic rhinitis",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Allergy",
+    "side_effects": "Headache",
+    "alternative": "Montair LC"
+},
+{
+    "name": "Xylometazoline Nasal Spray",
+    "uses": "Blocked nose",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Various",
+    "category": "ENT",
+    "side_effects": "Nasal dryness",
+    "alternative": "Otrivin Nasal Spray"
+},
+{
+    "name": "Nasoclear Saline Spray",
+    "uses": "Dry nose and nasal congestion",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "ENT",
+    "side_effects": "Rare irritation",
+    "alternative": "Sterimar Nasal Spray"
+},
+{
+    "name": "Sterimar Nasal Spray",
+    "uses": "Nasal cleansing",
+    "price": "Rs. 325 (Approx.)",
+    "manufacturer": "Church & Dwight",
+    "category": "ENT",
+    "side_effects": "Rare irritation",
+    "alternative": "Nasoclear Saline Spray"
+},
+{
+    "name": "Otorex Ear Drops",
+    "uses": "Ear infection",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "ENT",
+    "side_effects": "Temporary burning",
+    "alternative": "Ciplox Ear Drops"
+},
+{
+    "name": "Ciplox Ear Drops",
+    "uses": "Bacterial ear infection",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "ENT",
+    "side_effects": "Ear irritation",
+    "alternative": "Otorex Ear Drops"
+},
+{
+    "name": "Becosules Capsules",
+    "uses": "Vitamin B-complex deficiency",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Cobadex CZS"
+},
+{
+    "name": "Shelcal 500",
+    "uses": "Calcium deficiency",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Calcimax 500"
+},
+{
+    "name": "Calcimax 500",
+    "uses": "Calcium and Vitamin D supplement",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Meyer",
+    "category": "Supplement",
+    "side_effects": "Gas",
+    "alternative": "Shelcal 500"
+},
+{
+    "name": "Neurobion Forte",
+    "uses": "Vitamin B deficiency and nerve health",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Procter & Gamble",
+    "category": "Vitamin",
+    "side_effects": "Rare nausea",
+    "alternative": "Becosules Capsules"
+},
+{
+    "name": "Becosules Z",
+    "uses": "Multivitamin deficiency",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Neurobion Forte"
+},
+{
+    "name": "Pantocid DSR",
+    "uses": "Acidity with reflux",
+    "price": "Rs. 168 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Gastro",
+    "side_effects": "Headache",
+    "alternative": "Pan D"
+},
+{
+    "name": "Pan D",
+    "uses": "GERD and acidity",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Gastro",
+    "side_effects": "Dry mouth",
+    "alternative": "Pantocid DSR"
+},
+{
+    "name": "Razo D",
+    "uses": "Acidity and indigestion",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Gastro",
+    "side_effects": "Constipation",
+    "alternative": "Rabeprazole DSR"
+},
+{
+    "name": "Rabeprazole DSR",
+    "uses": "GERD and acidity",
+    "price": "Rs. 158 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Gastro",
+    "side_effects": "Headache",
+    "alternative": "Razo D"
+},
+{
+    "name": "Gelusil MPS",
+    "uses": "Gas, bloating and acidity",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Antacid",
+    "side_effects": "Constipation",
+    "alternative": "Digene Gel"
+},
+{
+    "name": "ENO Fruit Salt",
+    "uses": "Quick relief from acidity",
+    "price": "Rs. 12 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Antacid",
+    "side_effects": "Burping",
+    "alternative": "Digene"
+}
+
+,
+{
+    "name": "Moxikind CV 625",
+    "uses": "Bacterial infections",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, nausea",
+    "alternative": "Augmentin 625"
+},
+{
+    "name": "Cefix 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Loose stools",
+    "alternative": "Cefixime 200"
+},
+{
+    "name": "Cefixime 200",
+    "uses": "Respiratory and urinary infections",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Cefix 200"
+},
+{
+    "name": "Taxim 500",
+    "uses": "Bacterial infections",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea",
+    "alternative": "Cefotaxime"
+},
+{
+    "name": "Dolo 250 Syrup",
+    "uses": "Fever and pain in children",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Micro Labs",
+    "category": "Pediatric",
+    "side_effects": "Rare skin rash",
+    "alternative": "Calpol 250 Syrup"
+},
+{
+    "name": "Ibugesic Plus Syrup",
+    "uses": "Fever and pain in children",
+    "price": "Rs. 82 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Pediatric",
+    "side_effects": "Stomach upset",
+    "alternative": "Meftal P Syrup"
+},
+{
+    "name": "Otrivin Nasal Spray",
+    "uses": "Blocked nose",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "ENT",
+    "side_effects": "Nasal dryness",
+    "alternative": "Xylometazoline Nasal Spray"
+},
+{
+    "name": "Sinarest",
+    "uses": "Cold and nasal congestion",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Centaur",
+    "category": "Cold & Flu",
+    "side_effects": "Sleepiness",
+    "alternative": "Wikoryl"
+},
+{
+    "name": "Wikoryl",
+    "uses": "Cold, cough and fever",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Alembic",
+    "category": "Cold & Flu",
+    "side_effects": "Drowsiness",
+    "alternative": "Sinarest"
+},
+{
+    "name": "Sinarest AF",
+    "uses": "Allergic cold symptoms",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Centaur",
+    "category": "Cold & Flu",
+    "side_effects": "Dry mouth",
+    "alternative": "Levocet M"
+},
+{
+    "name": "Baidyanath Chyawanprash",
+    "uses": "Immunity support",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Baidyanath",
+    "category": "Ayurvedic",
+    "side_effects": "High sugar content",
+    "alternative": "Dabur Chyawanprash"
+},
+{
+    "name": "Dabur Chyawanprash",
+    "uses": "Immunity and general wellness",
+    "price": "Rs. 365 (Approx.)",
+    "manufacturer": "Dabur",
+    "category": "Ayurvedic",
+    "side_effects": "High sugar content",
+    "alternative": "Baidyanath Chyawanprash"
+},
+{
+    "name": "Liv 52 DS",
+    "uses": "Liver support",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Liver Care",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Liv 52"
+},
+{
+    "name": "Ursocol 300",
+    "uses": "Gallstones and liver disorders",
+    "price": "Rs. 585 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Liver Care",
+    "side_effects": "Diarrhea",
+    "alternative": "Ursodeoxycholic Acid 300"
+},
+{
+    "name": "Ursodeoxycholic Acid 300",
+    "uses": "Gallstone treatment",
+    "price": "Rs. 565 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Liver Care",
+    "side_effects": "Nausea",
+    "alternative": "Ursocol 300"
+},
+{
+    "name": "Duprost",
+    "uses": "Benign Prostatic Hyperplasia",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Urology",
+    "side_effects": "Reduced libido",
+    "alternative": "Dutasteride 0.5"
+},
+{
+    "name": "Dutasteride 0.5",
+    "uses": "Enlarged prostate",
+    "price": "Rs. 365 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Urology",
+    "side_effects": "Erectile dysfunction",
+    "alternative": "Duprost"
+},
+{
+    "name": "Candid V Gel",
+    "uses": "Vaginal fungal infection",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Women's Health",
+    "side_effects": "Local irritation",
+    "alternative": "Clotrimazole Vaginal Cream"
+},
+{
+    "name": "Clotrimazole Vaginal Cream",
+    "uses": "Vaginal yeast infection",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Women's Health",
+    "side_effects": "Burning sensation",
+    "alternative": "Candid V Gel"
+},
+{
+    "name": "Lulican Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Skin",
+    "side_effects": "Skin irritation",
+    "alternative": "Luliconazole Cream"
+},
+{
+    "name": "Luliconazole Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 220 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Skin",
+    "side_effects": "Burning, itching",
+    "alternative": "Lulican Cream"
+},
+{
+    "name": "Terbinafine 250",
+    "uses": "Fungal infections of skin and nails",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antifungal",
+    "side_effects": "Headache, nausea",
+    "alternative": "Sebifin 250"
+},
+{
+    "name": "Sebifin 250",
+    "uses": "Fungal infections",
+    "price": "Rs. 210 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Antifungal",
+    "side_effects": "Stomach upset",
+    "alternative": "Terbinafine 250"
+},
+{
+    "name": "Fluconazole 150",
+    "uses": "Fungal infections",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antifungal",
+    "side_effects": "Headache",
+    "alternative": "Forcan 150"
+},
+{
+    "name": "Forcan 150",
+    "uses": "Yeast infections",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antifungal",
+    "side_effects": "Nausea",
+    "alternative": "Fluconazole 150"
+},
+{
+    "name": "Canditral 100",
+    "uses": "Fungal infections",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Antifungal",
+    "side_effects": "Stomach pain",
+    "alternative": "Itraconazole 100"
+},
+{
+    "name": "Itraconazole 100",
+    "uses": "Severe fungal infections",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antifungal",
+    "side_effects": "Nausea",
+    "alternative": "Canditral 100"
+},
+{
+    "name": "Acyclovir 400",
+    "uses": "Herpes virus infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiviral",
+    "side_effects": "Headache",
+    "alternative": "Acivir 400"
+},
+{
+    "name": "Acivir 400",
+    "uses": "Herpes infection",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antiviral",
+    "side_effects": "Dizziness",
+    "alternative": "Acyclovir 400"
+},
+{
+    "name": "Valacyclovir 500",
+    "uses": "Herpes zoster and herpes simplex",
+    "price": "Rs. 365 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiviral",
+    "side_effects": "Nausea",
+    "alternative": "Valcivir 500"
+},
+{
+    "name": "Valcivir 500",
+    "uses": "Viral infections",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antiviral",
+    "side_effects": "Headache",
+    "alternative": "Valacyclovir 500"
+},
+{
+    "name": "Tamiflu 75",
+    "uses": "Influenza (Flu)",
+    "price": "Rs. 980 (Approx.)",
+    "manufacturer": "Roche",
+    "category": "Antiviral",
+    "side_effects": "Vomiting",
+    "alternative": "Oseltamivir 75"
+},
+{
+    "name": "Oseltamivir 75",
+    "uses": "Influenza treatment",
+    "price": "Rs. 850 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiviral",
+    "side_effects": "Nausea",
+    "alternative": "Tamiflu 75"
+},
+{
+    "name": "Hydroxychloroquine 200",
+    "uses": "Rheumatoid arthritis, lupus",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Immunology",
+    "side_effects": "Blurred vision",
+    "alternative": "HCQS 200"
+},
+{
+    "name": "HCQS 200",
+    "uses": "Autoimmune disorders",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Ipca",
+    "category": "Immunology",
+    "side_effects": "Headache",
+    "alternative": "Hydroxychloroquine 200"
+},
+{
+    "name": "Methotrexate 7.5",
+    "uses": "Rheumatoid arthritis, psoriasis",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Rheumatology",
+    "side_effects": "Nausea",
+    "alternative": "Folitrax 7.5"
+},
+{
+    "name": "Folitrax 7.5",
+    "uses": "Autoimmune disorders",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Ipca",
+    "category": "Rheumatology",
+    "side_effects": "Mouth ulcers",
+    "alternative": "Methotrexate 7.5"
+},
+{
+    "name": "Folvite 5",
+    "uses": "Folic acid deficiency",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Vitamin",
+    "side_effects": "Rare allergy",
+    "alternative": "Folic Acid 5"
+},
+{
+    "name": "Folic Acid 5",
+    "uses": "Vitamin B9 deficiency",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Rare nausea",
+    "alternative": "Folvite 5"
+},
+{
+    "name": "Evion 600",
+    "uses": "Vitamin E deficiency",
+    "price": "Rs. 58 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "Vitamin",
+    "side_effects": "Stomach upset",
+    "alternative": "Vitamin E 600"
+},
+{
+    "name": "Vitamin E 600",
+    "uses": "Vitamin E deficiency",
+    "price": "Rs. 52 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Evion 600"
+},
+{
+    "name": "Evion LC",
+    "uses": "Muscle weakness and nerve health",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "Supplement",
+    "side_effects": "Stomach upset",
+    "alternative": "Evion 600"
+},
+{
+    "name": "Limcee 500",
+    "uses": "Vitamin C deficiency",
+    "price": "Rs. 32 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Vitamin",
+    "side_effects": "Acidity",
+    "alternative": "Vitamin C 500"
+},
+{
+    "name": "Vitamin C 500",
+    "uses": "Vitamin C deficiency",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Stomach upset",
+    "alternative": "Limcee 500"
+},
+{
+    "name": "Supradyn Daily",
+    "uses": "Multivitamin supplement",
+    "price": "Rs. 62 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Vitamin",
+    "side_effects": "Mild nausea",
+    "alternative": "Zincovit"
+},
+{
+    "name": "Revital H",
+    "uses": "Daily energy and immunity",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Supplement",
+    "side_effects": "Stomach upset",
+    "alternative": "Supradyn Daily"
+},
+{
+    "name": "Baidyanath Ashokarishta",
+    "uses": "Women's reproductive health",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Baidyanath",
+    "category": "Ayurvedic",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Dashmularishta"
+},
+{
+    "name": "Dashmularishta",
+    "uses": "Postpartum recovery and women's health",
+    "price": "Rs. 190 (Approx.)",
+    "manufacturer": "Dabur",
+    "category": "Ayurvedic",
+    "side_effects": "Rare acidity",
+    "alternative": "Ashokarishta"
+},
+{
+    "name": "Himalaya Septilin",
+    "uses": "Immune support",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Ayurvedic",
+    "side_effects": "Rare allergy",
+    "alternative": "Immusante"
+},
+{
+    "name": "Bresol Syrup",
+    "uses": "Allergic respiratory disorders",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Himalaya",
+    "category": "Ayurvedic",
+    "side_effects": "Rare nausea",
+    "alternative": "Koflet Syrup"
+},
+{
+    "name": "Pankreoflat",
+    "uses": "Indigestion and bloating",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Digestive",
+    "side_effects": "Diarrhea",
+    "alternative": "Unienzyme"
+},
+{
+    "name": "Unienzyme",
+    "uses": "Digestive enzyme supplement",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Digestive",
+    "side_effects": "Nausea",
+    "alternative": "Pankreoflat"
+},
+{
+    "name": "Creon 10000",
+    "uses": "Pancreatic enzyme deficiency",
+    "price": "Rs. 685 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Digestive",
+    "side_effects": "Constipation",
+    "alternative": "Pancreatin Capsules"
+},
+{
+    "name": "Pancreatin Capsules",
+    "uses": "Digestive enzyme replacement",
+    "price": "Rs. 620 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Digestive",
+    "side_effects": "Stomach pain",
+    "alternative": "Creon 10000"
+},
+{
+    "name": "Duphalyte",
+    "uses": "Oral rehydration and electrolyte replacement",
+    "price": "Rs. 45 (Approx.)",
+    "manufacturer": "FDC",
+    "category": "Rehydration",
+    "side_effects": "Usually well tolerated",
+    "alternative": "Electral Powder"
+},
+{
+    "name": "Betadine Gargle",
+    "uses": "Sore throat and mouth infection",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Win-Medicare",
+    "category": "ENT",
+    "side_effects": "Temporary throat irritation",
+    "alternative": "Hexidine Gargle"
+},
+{
+    "name": "Hexidine Gargle",
+    "uses": "Mouth and throat infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "ICPA",
+    "category": "ENT",
+    "side_effects": "Taste alteration",
+    "alternative": "Betadine Gargle"
+},
+{
+    "name": "Cipladine Ointment",
+    "uses": "Cuts and wound infection prevention",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation",
+    "alternative": "Betadine Ointment"
+},
+{
+    "name": "Volini Spray",
+    "uses": "Muscle pain and sprain",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Pain Relief",
+    "side_effects": "Skin irritation",
+    "alternative": "Moov Spray"
+},
+{
+    "name": "Moov Spray",
+    "uses": "Back pain and muscle pain",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Pain Relief",
+    "side_effects": "Burning sensation",
+    "alternative": "Volini Spray"
+},
+{
+    "name": "Benzac AC 2.5 Gel",
+    "uses": "Acne treatment",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Galderma",
+    "category": "Dermatology",
+    "side_effects": "Dry skin, peeling",
+    "alternative": "Persol AC Gel"
+},
+{
+    "name": "Persol AC Gel",
+    "uses": "Pimples and acne",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Wallace",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Benzac AC 2.5 Gel"
+},
+{
+    "name": "Adapalene 0.1 Gel",
+    "uses": "Acne vulgaris",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin redness",
+    "alternative": "Adaferin Gel"
+},
+{
+    "name": "Adaferin Gel",
+    "uses": "Acne treatment",
+    "price": "Rs. 255 (Approx.)",
+    "manufacturer": "Galderma",
+    "category": "Dermatology",
+    "side_effects": "Dryness",
+    "alternative": "Adapalene 0.1 Gel"
+},
+{
+    "name": "Clindamycin Gel",
+    "uses": "Bacterial acne",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin burning",
+    "alternative": "Clindac A Gel"
+},
+{
+    "name": "Clindac A Gel",
+    "uses": "Acne and pimples",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Nicholas Piramal",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Clindamycin Gel"
+},
+{
+    "name": "Retino A 0.025",
+    "uses": "Acne and skin renewal",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "Dermatology",
+    "side_effects": "Skin peeling",
+    "alternative": "Tretinoin Cream"
+},
+{
+    "name": "Tretinoin Cream",
+    "uses": "Acne treatment",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Photosensitivity",
+    "alternative": "Retino A 0.025"
+},
+{
+    "name": "Bilastine 20",
+    "uses": "Allergic rhinitis and urticaria",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Headache",
+    "alternative": "Bilasure 20"
+},
+{
+    "name": "Bilasure 20",
+    "uses": "Allergy",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Allergy",
+    "side_effects": "Sleepiness",
+    "alternative": "Bilastine 20"
+},
+{
+    "name": "Montelukast 10",
+    "uses": "Asthma and allergic rhinitis",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Headache",
+    "alternative": "Montair 10"
+},
+{
+    "name": "Montair 10",
+    "uses": "Asthma prevention",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Dizziness",
+    "alternative": "Montelukast 10"
+},
+{
+    "name": "Foracort 200 Inhaler",
+    "uses": "Asthma and COPD",
+    "price": "Rs. 425 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Hoarseness",
+    "alternative": "Symbicort 200"
+},
+{
+    "name": "Symbicort 200",
+    "uses": "Asthma maintenance",
+    "price": "Rs. 465 (Approx.)",
+    "manufacturer": "AstraZeneca",
+    "category": "Respiratory",
+    "side_effects": "Sore throat",
+    "alternative": "Foracort 200 Inhaler"
+},
+{
+    "name": "Tiova Inhaler",
+    "uses": "COPD treatment",
+    "price": "Rs. 395 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Dry mouth",
+    "alternative": "Tiotropium Inhaler"
+},
+{
+    "name": "Tiotropium Inhaler",
+    "uses": "Chronic obstructive pulmonary disease",
+    "price": "Rs. 410 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Constipation",
+    "alternative": "Tiova Inhaler"
+},
+{
+    "name": "Methylcobalamin 1500",
+    "uses": "Vitamin B12 deficiency and neuropathy",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Vitamin",
+    "side_effects": "Rare nausea",
+    "alternative": "Nurokind Gold"
+},
+{
+    "name": "Nurokind Gold",
+    "uses": "Nerve health",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Vitamin",
+    "side_effects": "Stomach upset",
+    "alternative": "Methylcobalamin 1500"
+},
+{
+    "name": "Lycored Capsules",
+    "uses": "Antioxidant supplement",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Supplement",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Antoxid HC"
+},
+{
+    "name": "Antoxid HC",
+    "uses": "Antioxidant and vitamin supplement",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Meyer",
+    "category": "Supplement",
+    "side_effects": "Nausea",
+    "alternative": "Lycored Capsules"
+},
+{
+    "name": "Zifi 200",
+    "uses": "Bacterial infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "FDC",
+    "category": "Antibiotic",
+    "side_effects": "Diarrhea, nausea",
+    "alternative": "Cefixime 200"
+},
+{
+    "name": "Magnex Forte Injection",
+    "uses": "Severe bacterial infections",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Injection",
+    "side_effects": "Pain at injection site",
+    "alternative": "Meropenem Injection"
+},
+{
+    "name": "Meropenem 1g Injection",
+    "uses": "Serious bacterial infections",
+    "price": "Rs. 950 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Injection",
+    "side_effects": "Headache, diarrhea",
+    "alternative": "Magnex Forte Injection"
+},
+{
+    "name": "Piperacillin Tazobactam Injection",
+    "uses": "Hospital-acquired infections",
+    "price": "Rs. 465 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Injection",
+    "side_effects": "Nausea, rash",
+    "alternative": "Piptaz Injection"
+},
+{
+    "name": "Piptaz Injection",
+    "uses": "Severe bacterial infections",
+    "price": "Rs. 485 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Injection",
+    "side_effects": "Diarrhea",
+    "alternative": "Piperacillin Tazobactam Injection"
+},
+{
+    "name": "Clexane 40 Injection",
+    "uses": "Prevention of blood clots",
+    "price": "Rs. 525 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Injection",
+    "side_effects": "Bleeding, bruising",
+    "alternative": "Enoxaparin 40"
+},
+{
+    "name": "Enoxaparin 40",
+    "uses": "Deep vein thrombosis prevention",
+    "price": "Rs. 495 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Injection",
+    "side_effects": "Injection site pain",
+    "alternative": "Clexane 40 Injection"
+},
+{
+    "name": "Human Actrapid",
+    "uses": "Short-acting insulin for diabetes",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Novo Nordisk",
+    "category": "Insulin",
+    "side_effects": "Low blood sugar",
+    "alternative": "Human Mixtard"
+},
+{
+    "name": "Human Mixtard",
+    "uses": "Mixed insulin for diabetes",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Novo Nordisk",
+    "category": "Insulin",
+    "side_effects": "Hypoglycemia",
+    "alternative": "Human Actrapid"
+},
+{
+    "name": "Novorapid FlexPen",
+    "uses": "Rapid-acting insulin",
+    "price": "Rs. 1125 (Approx.)",
+    "manufacturer": "Novo Nordisk",
+    "category": "Insulin",
+    "side_effects": "Low blood sugar",
+    "alternative": "Humalog KwikPen"
+},
+{
+    "name": "Humalog KwikPen",
+    "uses": "Rapid-acting insulin",
+    "price": "Rs. 1185 (Approx.)",
+    "manufacturer": "Eli Lilly",
+    "category": "Insulin",
+    "side_effects": "Injection site redness",
+    "alternative": "Novorapid FlexPen"
+},
+{
+    "name": "Xarelto 10",
+    "uses": "Blood clot prevention",
+    "price": "Rs. 595 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Rivaroxaban 10"
+},
+{
+    "name": "Rivaroxaban 10",
+    "uses": "Prevention of stroke and blood clots",
+    "price": "Rs. 565 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Easy bruising",
+    "alternative": "Xarelto 10"
+},
+{
+    "name": "Eliquis 5",
+    "uses": "Blood clot prevention",
+    "price": "Rs. 695 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Apixaban 5"
+},
+{
+    "name": "Apixaban 5",
+    "uses": "Stroke prevention in atrial fibrillation",
+    "price": "Rs. 645 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bruising",
+    "alternative": "Eliquis 5"
+},
+{
+    "name": "Sompraz 40",
+    "uses": "Acidity and GERD",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Gastro",
+    "side_effects": "Headache",
+    "alternative": "Esomeprazole 40"
+},
+{
+    "name": "Esomeprazole 40",
+    "uses": "Acid reflux and ulcers",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Gastro",
+    "side_effects": "Constipation",
+    "alternative": "Sompraz 40"
+},
+{
+    "name": "Norflox TZ",
+    "uses": "Diarrhea and intestinal infections",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antibiotic",
+    "side_effects": "Nausea",
+    "alternative": "Norfloxacin Tinidazole"
+},
+{
+    "name": "Norfloxacin Tinidazole",
+    "uses": "Mixed bacterial and protozoal infections",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antibiotic",
+    "side_effects": "Metallic taste",
+    "alternative": "Norflox TZ"
+},
+{
+    "name": "Lobun Cream",
+    "uses": "Burns and skin wounds",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Micro Labs",
+    "category": "Skin Care",
+    "side_effects": "Skin irritation",
+    "alternative": "Silverex Cream"
+},
+{
+    "name": "Silverex Cream",
+    "uses": "Burns and wound infections",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Burn Care",
+    "side_effects": "Temporary burning sensation",
+    "alternative": "Lobun Cream"
+},
+{
+    "name": "Mupirocin Ointment",
+    "uses": "Bacterial skin infections",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "T-Bact Ointment"
+},
+{
+    "name": "T-Bact Ointment",
+    "uses": "Skin bacterial infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Dermatology",
+    "side_effects": "Itching",
+    "alternative": "Mupirocin Ointment"
+},
+{
+    "name": "Candid B Cream",
+    "uses": "Fungal skin infection with inflammation",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Dermatology",
+    "side_effects": "Skin burning",
+    "alternative": "Canesten Cream"
+},
+{
+    "name": "Canesten Cream",
+    "uses": "Fungal skin infections",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Dermatology",
+    "side_effects": "Mild irritation",
+    "alternative": "Candid B Cream"
+},
+{
+    "name": "Betnovate Cream",
+    "uses": "Eczema and dermatitis",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Dermatology",
+    "side_effects": "Skin thinning with prolonged use",
+    "alternative": "Betamethasone Cream"
+},
+{
+    "name": "Betamethasone Cream",
+    "uses": "Inflammatory skin conditions",
+    "price": "Rs. 62 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Betnovate Cream"
+},
+{
+    "name": "Lobate GM Cream",
+    "uses": "Mixed bacterial and fungal skin infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Quadriderm Cream"
+},
+{
+    "name": "Panderm Plus Cream",
+    "uses": "Skin infections",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Dermatology",
+    "side_effects": "Burning sensation",
+    "alternative": "Panderm Cream"
+},
+{
+    "name": "Atarax 25",
+    "uses": "Allergy and itching",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Allergy",
+    "side_effects": "Sleepiness",
+    "alternative": "Hydroxyzine 25"
+},
+{
+    "name": "Hydroxyzine 25",
+    "uses": "Allergic skin conditions",
+    "price": "Rs. 58 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Drowsiness",
+    "alternative": "Atarax 25"
+},
+{
+    "name": "Cetcip L",
+    "uses": "Allergic rhinitis",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Allergy",
+    "side_effects": "Sleepiness",
+    "alternative": "Levocetirizine 5"
+},
+{
+    "name": "Levocetirizine 5",
+    "uses": "Allergy and itching",
+    "price": "Rs. 45 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Allergy",
+    "side_effects": "Dry mouth",
+    "alternative": "Cetcip L"
+},
+{
+    "name": "Benadryl Syrup",
+    "uses": "Dry cough and allergy",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "Cough",
+    "side_effects": "Sleepiness",
+    "alternative": "Corex DX Syrup"
+},
+{
+    "name": "Corex DX Syrup",
+    "uses": "Dry cough",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Cough",
+    "side_effects": "Drowsiness",
+    "alternative": "Benadryl Syrup"
+},
+{
+    "name": "Alex Syrup",
+    "uses": "Dry cough",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Cough",
+    "side_effects": "Sleepiness",
+    "alternative": "TusQ DX"
+},
+{
+    "name": "Bro-Zedex Syrup",
+    "uses": "Wet cough with mucus",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Wockhardt",
+    "category": "Cough",
+    "side_effects": "Nausea",
+    "alternative": "Ascoril LS"
+},
+{
+    "name": "Ambroxol Syrup",
+    "uses": "Productive cough",
+    "price": "Rs. 75 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cough",
+    "side_effects": "Stomach upset",
+    "alternative": "Bro-Zedex Syrup"
+},
+{
+    "name": "Mucosolvan Syrup",
+    "uses": "Chest congestion",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Respiratory",
+    "side_effects": "Nausea",
+    "alternative": "Ambroxol Syrup"
+},
+{
+    "name": "Asthalin Syrup",
+    "uses": "Asthma and wheezing",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Tremors",
+    "alternative": "Salbutamol Syrup"
+},
+{
+    "name": "Salbutamol Syrup",
+    "uses": "Asthma and bronchospasm",
+    "price": "Rs. 52 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Tremors, fast heartbeat",
+    "alternative": "Asthalin Syrup"
+},
+{
+    "name": "Duolin Inhaler",
+    "uses": "COPD and asthma",
+    "price": "Rs. 285 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Dry mouth",
+    "alternative": "Combivent Inhaler"
+},
+{
+    "name": "Combivent Inhaler",
+    "uses": "COPD treatment",
+    "price": "Rs. 315 (Approx.)",
+    "manufacturer": "Boehringer Ingelheim",
+    "category": "Respiratory",
+    "side_effects": "Headache",
+    "alternative": "Duolin Inhaler"
+},
+{
+    "name": "Budecort Inhaler",
+    "uses": "Asthma prevention",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Respiratory",
+    "side_effects": "Oral fungal infection",
+    "alternative": "Budesonide Inhaler"
+},
+{
+    "name": "Budesonide Inhaler",
+    "uses": "Asthma maintenance",
+    "price": "Rs. 325 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Respiratory",
+    "side_effects": "Hoarseness",
+    "alternative": "Budecort Inhaler"
+},
+{
+    "name": "Lasix 40",
+    "uses": "Edema and high blood pressure",
+    "price": "Rs. 28 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Cardiology",
+    "side_effects": "Frequent urination",
+    "alternative": "Furosemide 40"
+},
+{
+    "name": "Furosemide 40",
+    "uses": "Fluid retention",
+    "price": "Rs. 22 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Low potassium",
+    "alternative": "Lasix 40"
+},
+{
+    "name": "Sporlac",
+    "uses": "Diarrhea and gut health",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Sanzyme",
+    "category": "Probiotic",
+    "side_effects": "Gas",
+    "alternative": "Econorm"
+},
+{
+    "name": "Econorm",
+    "uses": "Diarrhea and probiotic support",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Probiotic",
+    "side_effects": "Bloating",
+    "alternative": "Sporlac"
+},
+{
+    "name": "Vizylac",
+    "uses": "Restore intestinal flora",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Probiotic",
+    "side_effects": "Mild bloating",
+    "alternative": "Econorm"
+},
+{
+    "name": "Bifilac",
+    "uses": "Digestive disorders",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Tablets India",
+    "category": "Probiotic",
+    "side_effects": "Gas",
+    "alternative": "Vizylac"
+},
+{
+    "name": "Cyclopam",
+    "uses": "Abdominal pain and cramps",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Indoco",
+    "category": "Antispasmodic",
+    "side_effects": "Dry mouth",
+    "alternative": "Meftal Spas"
+},
+{
+    "name": "Drotin M",
+    "uses": "Abdominal cramps",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Walter Bushnell",
+    "category": "Antispasmodic",
+    "side_effects": "Dizziness",
+    "alternative": "Drotaverine 80"
+},
+{
+    "name": "Drotaverine 80",
+    "uses": "Smooth muscle spasm",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antispasmodic",
+    "side_effects": "Low blood pressure",
+    "alternative": "Drotin M"
+},
+{
+    "name": "Meftal Spas",
+    "uses": "Menstrual pain and stomach cramps",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Blue Cross",
+    "category": "Pain Relief",
+    "side_effects": "Nausea",
+    "alternative": "Cyclopam"
+},
+{
+    "name": "Emeset 4",
+    "uses": "Nausea and vomiting",
+    "price": "Rs. 52 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Antiemetic",
+    "side_effects": "Headache",
+    "alternative": "Ondansetron 4"
+},
+{
+    "name": "Ondansetron 4",
+    "uses": "Vomiting prevention",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiemetic",
+    "side_effects": "Constipation",
+    "alternative": "Emeset 4"
+},
+{
+    "name": "Perinorm",
+    "uses": "Nausea and gastric motility",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Ipca",
+    "category": "Antiemetic",
+    "side_effects": "Sleepiness",
+    "alternative": "Metoclopramide 10"
+},
+{
+    "name": "Metoclopramide 10",
+    "uses": "Nausea and vomiting",
+    "price": "Rs. 30 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Antiemetic",
+    "side_effects": "Drowsiness",
+    "alternative": "Perinorm"
+},
+{
+    "name": "Domstal",
+    "uses": "Acidity with nausea",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Gastro",
+    "side_effects": "Dry mouth",
+    "alternative": "Domperidone 10"
+},
+{
+    "name": "Domperidone 10",
+    "uses": "Nausea, vomiting and gastric motility disorders",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Gastro",
+    "side_effects": "Dry mouth",
+    "alternative": "Domstal"
+},
+{
+    "name": "Looz Syrup",
+    "uses": "Constipation",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Laxative",
+    "side_effects": "Gas, bloating",
+    "alternative": "Lactulose Solution"
+},
+{
+    "name": "Lactulose Solution",
+    "uses": "Chronic constipation",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Laxative",
+    "side_effects": "Abdominal discomfort",
+    "alternative": "Looz Syrup"
+},
+{
+    "name": "Cremaffin Syrup",
+    "uses": "Constipation relief",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Laxative",
+    "side_effects": "Loose stools",
+    "alternative": "Looz Syrup"
+},
+{
+    "name": "Dulcolax 5",
+    "uses": "Constipation",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Laxative",
+    "side_effects": "Abdominal cramps",
+    "alternative": "Bisacodyl 5"
+},
+{
+    "name": "Bisacodyl 5",
+    "uses": "Short-term constipation treatment",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Laxative",
+    "side_effects": "Stomach cramps",
+    "alternative": "Dulcolax 5"
+},
+{
+    "name": "Duphalac",
+    "uses": "Constipation and liver disease",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Laxative",
+    "side_effects": "Gas",
+    "alternative": "Looz Syrup"
+},
+{
+    "name": "Colimex Drops",
+    "uses": "Infant colic",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Wallace",
+    "category": "Pediatric",
+    "side_effects": "Rare allergy",
+    "alternative": "Colicaid Drops"
+},
+{
+    "name": "Colicaid Drops",
+    "uses": "Baby stomach pain and gas",
+    "price": "Rs. 82 (Approx.)",
+    "manufacturer": "Meyer",
+    "category": "Pediatric",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Colimex Drops"
+},
+{
+    "name": "Nasivion Drops",
+    "uses": "Blocked nose in infants",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "ENT",
+    "side_effects": "Nasal irritation",
+    "alternative": "Otrivin Baby Drops"
+},
+{
+    "name": "Otrivin Baby Drops",
+    "uses": "Infant nasal congestion",
+    "price": "Rs. 75 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "ENT",
+    "side_effects": "Dry nose",
+    "alternative": "Nasivion Drops"
+},
+{
+    "name": "Caladryl Lotion",
+    "uses": "Itching and skin irritation",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Galderma",
+    "category": "Dermatology",
+    "side_effects": "Dry skin",
+    "alternative": "Calamine Lotion"
+},
+{
+    "name": "Calamine Lotion",
+    "uses": "Itching, insect bites and rashes",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin dryness",
+    "alternative": "Caladryl Lotion"
+},
+{
+    "name": "Permite Cream",
+    "uses": "Scabies treatment",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Dermatology",
+    "side_effects": "Burning sensation",
+    "alternative": "Permethrin 5 Cream"
+},
+{
+    "name": "Permethrin 5 Cream",
+    "uses": "Scabies and lice",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Itching",
+    "alternative": "Permite Cream"
+},
+{
+    "name": "Scaboma Lotion",
+    "uses": "Scabies",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Omega",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Permethrin 5 Cream"
+},
+{
+    "name": "Zincovit Syrup",
+    "uses": "Vitamin and zinc deficiency",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Apex",
+    "category": "Vitamin",
+    "side_effects": "Mild nausea",
+    "alternative": "Supradyn Daily"
+},
+{
+    "name": "Dexorange Syrup",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Franco Indian",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Livogen"
+},
+{
+    "name": "Autrin Capsules",
+    "uses": "Iron and folic acid deficiency",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Supplement",
+    "side_effects": "Dark stools",
+    "alternative": "Livogen"
+},
+{
+    "name": "Haem Up Syrup",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Emcure",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Dexorange Syrup"
+},
+{
+    "name": "Ferium XT",
+    "uses": "Iron deficiency anemia",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Emcure",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Livogen"
+},
+{
+    "name": "Orofer XT",
+    "uses": "Iron and folic acid deficiency",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Emcure",
+    "category": "Supplement",
+    "side_effects": "Nausea",
+    "alternative": "Ferium XT"
+},
+{
+    "name": "Renerve Plus",
+    "uses": "Peripheral neuropathy",
+    "price": "Rs. 215 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Neurology",
+    "side_effects": "Stomach upset",
+    "alternative": "Nurokind Gold"
+},
+{
+    "name": "Pregabalin 75",
+    "uses": "Nerve pain",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Neurology",
+    "side_effects": "Dizziness, sleepiness",
+    "alternative": "Pregalin 75"
+},
+{
+    "name": "Pregalin 75",
+    "uses": "Neuropathic pain",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Neurology",
+    "side_effects": "Drowsiness",
+    "alternative": "Pregabalin 75"
+},
+{
+    "name": "Gabapin 300",
+    "uses": "Neuropathic pain",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Neurology",
+    "side_effects": "Sleepiness",
+    "alternative": "Gabapentin 300"
+},
+{
+    "name": "Gabapentin 300",
+    "uses": "Nerve pain and seizures",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Neurology",
+    "side_effects": "Dizziness",
+    "alternative": "Gabapin 300"
+},
+{
+    "name": "Vertin 16",
+    "uses": "Vertigo",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "ENT",
+    "side_effects": "Headache",
+    "alternative": "Betahistine 16"
+},
+{
+    "name": "Betahistine 16",
+    "uses": "Vertigo and dizziness",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "ENT",
+    "side_effects": "Nausea",
+    "alternative": "Vertin 16"
+},
+{
+    "name": "Stugeron 25",
+    "uses": "Motion sickness and vertigo",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "ENT",
+    "side_effects": "Sleepiness",
+    "alternative": "Cinnarizine 25"
+},
+{
+    "name": "Cinnarizine 25",
+    "uses": "Vertigo",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Various",
+    "category": "ENT",
+    "side_effects": "Drowsiness",
+    "alternative": "Stugeron 25"
+},
+{
+    "name": "A to Z Gold",
+    "uses": "Multivitamin supplement",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Vitamin",
+    "side_effects": "Mild stomach upset",
+    "alternative": "Supradyn Daily"
+},
+{
+    "name": "B-Long F",
+    "uses": "Vitamin B12 deficiency",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Vitamin",
+    "side_effects": "Rare nausea",
+    "alternative": "Neurobion Forte"
+},
+{
+    "name": "Lacrigel Eye Gel",
+    "uses": "Dry eyes",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Temporary blurred vision",
+    "alternative": "Refresh Liquigel"
+},
+{
+    "name": "Refresh Liquigel",
+    "uses": "Lubricant eye gel",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Ophthalmology",
+    "side_effects": "Eye irritation",
+    "alternative": "Lacrigel Eye Gel"
+},
+{
+    "name": "Optive Eye Drops",
+    "uses": "Dry eye syndrome",
+    "price": "Rs. 325 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Ophthalmology",
+    "side_effects": "Temporary blurred vision",
+    "alternative": "Refresh Tears"
+},
+{
+    "name": "Refresh Tears",
+    "uses": "Dry eyes",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Ophthalmology",
+    "side_effects": "Eye irritation",
+    "alternative": "Optive Eye Drops"
+},
+{
+    "name": "Ciplox Eye Drops",
+    "uses": "Bacterial eye infection",
+    "price": "Rs. 48 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Ophthalmology",
+    "side_effects": "Burning sensation",
+    "alternative": "Moxifloxacin Eye Drops"
+},
+{
+    "name": "Moxifloxacin Eye Drops",
+    "uses": "Eye bacterial infection",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Ophthalmology",
+    "side_effects": "Eye discomfort",
+    "alternative": "Ciplox Eye Drops"
+},
+{
+    "name": "Ocurest Eye Drops",
+    "uses": "Eye redness and irritation",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Temporary burning",
+    "alternative": "Refresh Tears"
+},
+{
+    "name": "Tobramycin Eye Drops",
+    "uses": "Bacterial eye infections",
+    "price": "Rs. 110 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Eye irritation",
+    "alternative": "Ciplox Eye Drops"
+},
+{
+    "name": "Natamycin Eye Drops",
+    "uses": "Fungal eye infections",
+    "price": "Rs. 295 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Eye redness",
+    "alternative": "Voriconazole Eye Drops"
+},
+{
+    "name": "Olopat Eye Drops",
+    "uses": "Allergic conjunctivitis",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Ajanta Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Eye irritation",
+    "alternative": "Patanol Eye Drops"
+},
+{
+    "name": "Patanol Eye Drops",
+    "uses": "Eye allergy",
+    "price": "Rs. 275 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Ophthalmology",
+    "side_effects": "Burning sensation",
+    "alternative": "Olopat Eye Drops"
+},
+{
+    "name": "Brimonidine Eye Drops",
+    "uses": "Glaucoma",
+    "price": "Rs. 320 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Ophthalmology",
+    "side_effects": "Dry eyes",
+    "alternative": "Alphagan P"
+},
+{
+    "name": "Alphagan P",
+    "uses": "High eye pressure",
+    "price": "Rs. 395 (Approx.)",
+    "manufacturer": "Allergan",
+    "category": "Ophthalmology",
+    "side_effects": "Blurred vision",
+    "alternative": "Brimonidine Eye Drops"
+},
+{
+    "name": "Travatan Eye Drops",
+    "uses": "Open-angle glaucoma",
+    "price": "Rs. 625 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Ophthalmology",
+    "side_effects": "Eye redness",
+    "alternative": "Travoprost Eye Drops"
+},
+{
+    "name": "Travoprost Eye Drops",
+    "uses": "Glaucoma treatment",
+    "price": "Rs. 585 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Ophthalmology",
+    "side_effects": "Eye irritation",
+    "alternative": "Travatan Eye Drops"
+},
+{
+    "name": "Timolol Eye Drops",
+    "uses": "Glaucoma",
+    "price": "Rs. 85 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Ophthalmology",
+    "side_effects": "Blurred vision",
+    "alternative": "Timolet Eye Drops"
+},
+{
+    "name": "Timolet Eye Drops",
+    "uses": "High eye pressure",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Ophthalmology",
+    "side_effects": "Eye discomfort",
+    "alternative": "Timolol Eye Drops"
+},
+{
+    "name": "Candid Dusting Powder",
+    "uses": "Fungal skin infections",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Abzorb Dusting Powder"
+},
+{
+    "name": "Abzorb Dusting Powder",
+    "uses": "Fungal infection and itching",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Dermatology",
+    "side_effects": "Dry skin",
+    "alternative": "Candid Dusting Powder"
+},
+{
+    "name": "Ketoconazole Soap",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin dryness",
+    "alternative": "KZ Soap"
+},
+{
+    "name": "KZ Soap",
+    "uses": "Fungal skin disorders",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Hegde & Hegde",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Ketoconazole Soap"
+},
+{
+    "name": "Scalpe Plus Shampoo",
+    "uses": "Dandruff treatment",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Hair Care",
+    "side_effects": "Dry scalp",
+    "alternative": "Nizral Shampoo"
+},
+{
+    "name": "Nizral Shampoo",
+    "uses": "Dandruff and fungal scalp infection",
+    "price": "Rs. 325 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "Hair Care",
+    "side_effects": "Hair dryness",
+    "alternative": "Scalpe Plus Shampoo"
+},
+{
+    "name": "Mintop 5%",
+    "uses": "Hair loss treatment",
+    "price": "Rs. 895 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Hair Care",
+    "side_effects": "Scalp irritation",
+    "alternative": "Minoxidil 5%"
+},
+{
+    "name": "Minoxidil 5%",
+    "uses": "Male pattern baldness",
+    "price": "Rs. 825 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Hair Care",
+    "side_effects": "Itching",
+    "alternative": "Mintop 5%"
+},
+{
+    "name": "Tugain 5%",
+    "uses": "Hair regrowth",
+    "price": "Rs. 865 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Hair Care",
+    "side_effects": "Scalp redness",
+    "alternative": "Mintop 5%"
+},
+{
+    "name": "Morr F 5%",
+    "uses": "Hair loss in men",
+    "price": "Rs. 985 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Hair Care",
+    "side_effects": "Scalp irritation",
+    "alternative": "Tugain 5%"
+},
+{
+    "name": "Finax 1",
+    "uses": "Male pattern hair loss",
+    "price": "Rs. 285 (Approx.)",
+    "manufacturer": "Dr. Reddy's",
+    "category": "Hair Care",
+    "side_effects": "Reduced libido",
+    "alternative": "Finasteride 1mg"
+},
+{
+    "name": "Finasteride 1mg",
+    "uses": "Hair loss treatment",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Hair Care",
+    "side_effects": "Sexual dysfunction",
+    "alternative": "Finax 1"
+},
+{
+    "name": "Cipcal 500",
+    "uses": "Calcium deficiency",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Shelcal 500"
+},
+{
+    "name": "Gemcal",
+    "uses": "Calcium and Vitamin D supplement",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Supplement",
+    "side_effects": "Gas",
+    "alternative": "Cipcal 500"
+},
+{
+    "name": "Uprise D3 60000",
+    "uses": "Vitamin D deficiency",
+    "price": "Rs. 38 (Approx.)",
+    "manufacturer": "Alkem",
+    "category": "Vitamin",
+    "side_effects": "Constipation",
+    "alternative": "Calcirol 60000"
+},
+{
+    "name": "Calcirol 60000",
+    "uses": "Vitamin D deficiency",
+    "price": "Rs. 42 (Approx.)",
+    "manufacturer": "Cadila",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Uprise D3 60000"
+},
+{
+    "name": "Tayo 60K",
+    "uses": "Vitamin D deficiency",
+    "price": "Rs. 45 (Approx.)",
+    "manufacturer": "Mankind",
+    "category": "Vitamin",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Uprise D3 60000"
+},
+{
+    "name": "Calcigen D3",
+    "uses": "Bone health",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Supplement",
+    "side_effects": "Constipation",
+    "alternative": "Gemcal"
+},
+{
+    "name": "Cobadex CZS",
+    "uses": "Multivitamin deficiency",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Vitamin",
+    "side_effects": "Nausea",
+    "alternative": "Becosules"
+},
+{
+    "name": "Astymin Forte",
+    "uses": "Nutritional supplement",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Supplement",
+    "side_effects": "Stomach upset",
+    "alternative": "Zincovit"
+},
+{
+    "name": "Protinex",
+    "uses": "Protein supplement",
+    "price": "Rs. 585 (Approx.)",
+    "manufacturer": "Danone",
+    "category": "Nutrition",
+    "side_effects": "Bloating",
+    "alternative": "Ensure"
+},
+{
+    "name": "Ensure Powder",
+    "uses": "Complete nutritional supplement",
+    "price": "Rs. 785 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Nutrition",
+    "side_effects": "Rare bloating",
+    "alternative": "Protinex"
+},
+{
+    "name": "Pediasure",
+    "uses": "Children's nutritional supplement",
+    "price": "Rs. 845 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Nutrition",
+    "side_effects": "Rare stomach upset",
+    "alternative": "Horlicks Growth+"
+},
+{
+    "name": "Horlicks Growth+",
+    "uses": "Nutrition for growing children",
+    "price": "Rs. 565 (Approx.)",
+    "manufacturer": "Hindustan Unilever",
+    "category": "Nutrition",
+    "side_effects": "Contains sugar",
+    "alternative": "Pediasure"
+},
+{
+    "name": "Complan",
+    "uses": "Nutritional supplement",
+    "price": "Rs. 395 (Approx.)",
+    "manufacturer": "Zydus Wellness",
+    "category": "Nutrition",
+    "side_effects": "Contains sugar",
+    "alternative": "Bournvita"
+},
+{
+    "name": "Bournvita",
+    "uses": "Health drink",
+    "price": "Rs. 385 (Approx.)",
+    "manufacturer": "Cadbury",
+    "category": "Nutrition",
+    "side_effects": "Contains sugar",
+    "alternative": "Complan"
+},
+{
+    "name": "Horlicks",
+    "uses": "Daily nutrition",
+    "price": "Rs. 345 (Approx.)",
+    "manufacturer": "Hindustan Unilever",
+    "category": "Nutrition",
+    "side_effects": "Contains sugar",
+    "alternative": "Boost"
+},
+{
+    "name": "Boost",
+    "uses": "Energy and nutrition",
+    "price": "Rs. 335 (Approx.)",
+    "manufacturer": "Hindustan Unilever",
+    "category": "Nutrition",
+    "side_effects": "Contains sugar",
+    "alternative": "Horlicks"
+},
+{
+    "name": "Glucon-D",
+    "uses": "Instant energy",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Zydus Wellness",
+    "category": "Nutrition",
+    "side_effects": "High sugar content",
+    "alternative": "Electral Powder"
+},
+{
+    "name": "ProteinX",
+    "uses": "Protein supplementation",
+    "price": "Rs. 625 (Approx.)",
+    "manufacturer": "British Biologicals",
+    "category": "Nutrition",
+    "side_effects": "Bloating",
+    "alternative": "Protinex"
+},
+{
+    "name": "ORS Powder",
+    "uses": "Dehydration due to diarrhea and vomiting",
+    "price": "Rs. 25 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Rehydration",
+    "side_effects": "Usually well tolerated",
+    "alternative": "Electral Powder"
+},
+{
+    "name": "Electral Powder",
+    "uses": "Electrolyte replacement",
+    "price": "Rs. 24 (Approx.)",
+    "manufacturer": "FDC",
+    "category": "Rehydration",
+    "side_effects": "Usually well tolerated",
+    "alternative": "ORS Powder"
+},
+{
+    "name": "Betadine Ointment",
+    "uses": "Minor cuts and wound infection prevention",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Win-Medicare",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation",
+    "alternative": "Cipladine Ointment"
+},
+{
+    "name": "Soframycin Cream",
+    "uses": "Minor skin infections",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Antibiotic",
+    "side_effects": "Local irritation",
+    "alternative": "Mupirocin Ointment"
+},
+{
+    "name": "Boroline",
+    "uses": "Dry skin, cracked lips and minor cuts",
+    "price": "Rs. 45 (Approx.)",
+    "manufacturer": "G.D. Pharmaceuticals",
+    "category": "Skin Care",
+    "side_effects": "Rare skin irritation",
+    "alternative": "BoroPlus"
+},
+{
+    "name": "BoroPlus Cream",
+    "uses": "Dry skin and minor skin infections",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Emami",
+    "category": "Skin Care",
+    "side_effects": "Rare allergy",
+    "alternative": "Boroline"
+},
+{
+    "name": "Vicks VapoRub",
+    "uses": "Cold and nasal congestion",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "P&G",
+    "category": "Cold & Flu",
+    "side_effects": "Skin irritation",
+    "alternative": "Amrutanjan Cold Rub"
+},
+{
+    "name": "Amrutanjan Cold Rub",
+    "uses": "Cold relief",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Amrutanjan",
+    "category": "Cold & Flu",
+    "side_effects": "Skin irritation",
+    "alternative": "Vicks VapoRub"
+},
+{
+    "name": "Volini Gel",
+    "uses": "Muscle and joint pain",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Pain Relief",
+    "side_effects": "Skin burning",
+    "alternative": "Moov Cream"
+},
+{
+    "name": "Moov Cream",
+    "uses": "Back pain and muscle pain",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Pain Relief",
+    "side_effects": "Skin irritation",
+    "alternative": "Volini Gel"
+},
+{
+    "name": "Iodex Balm",
+    "uses": "Body pain relief",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Pain Relief",
+    "side_effects": "Skin redness",
+    "alternative": "Volini Gel"
+},
+{
+    "name": "Tiger Balm",
+    "uses": "Muscle pain and headache",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Haw Par",
+    "category": "Pain Relief",
+    "side_effects": "Skin irritation",
+    "alternative": "Iodex Balm"
+},
+{
+    "name": "Burnol Cream",
+    "uses": "Minor burns",
+    "price": "Rs. 75 (Approx.)",
+    "manufacturer": "Dr. Morepen",
+    "category": "Burn Care",
+    "side_effects": "Skin irritation",
+    "alternative": "Silverex Cream"
+},
+{
+    "name": "Dettol Antiseptic Liquid",
+    "uses": "Wound cleaning and antiseptic use",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Reckitt",
+    "category": "Antiseptic",
+    "side_effects": "Skin irritation if undiluted",
+    "alternative": "Savlon Antiseptic"
+},
+{
+    "name": "Savlon Antiseptic",
+    "uses": "Wound disinfection",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "ITC",
+    "category": "Antiseptic",
+    "side_effects": "Rare irritation",
+    "alternative": "Dettol Antiseptic Liquid"
+},
+{
+    "name": "Band-Aid",
+    "uses": "Covering minor cuts",
+    "price": "Rs. 40 (Approx.)",
+    "manufacturer": "Johnson & Johnson",
+    "category": "First Aid",
+    "side_effects": "Skin allergy to adhesive",
+    "alternative": "Hansaplast"
+},
+{
+    "name": "Hansaplast",
+    "uses": "First aid wound dressing",
+    "price": "Rs. 45 (Approx.)",
+    "manufacturer": "Beiersdorf",
+    "category": "First Aid",
+    "side_effects": "Skin irritation",
+    "alternative": "Band-Aid"
+},
+{
+    "name": "Cotton Roll",
+    "uses": "Wound dressing",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Various",
+    "category": "First Aid",
+    "side_effects": "None",
+    "alternative": "Sterile Cotton"
+},
+{
+    "name": "Sterile Gauze",
+    "uses": "Wound dressing",
+    "price": "Rs. 35 (Approx.)",
+    "manufacturer": "Various",
+    "category": "First Aid",
+    "side_effects": "None",
+    "alternative": "Cotton Roll"
+},
+{
+    "name": "Micropore Surgical Tape",
+    "uses": "Securing dressings and bandages",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "3M",
+    "category": "First Aid",
+    "side_effects": "Skin irritation in sensitive users",
+    "alternative": "Surgical Adhesive Tape"
+},
+{
+    "name": "Azoran 50",
+    "uses": "Autoimmune disorders and organ transplant",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "RPG Life Sciences",
+    "category": "Immunosuppressant",
+    "side_effects": "Nausea, low immunity",
+    "alternative": "Azathioprine 50"
+},
+{
+    "name": "Azathioprine 50",
+    "uses": "Rheumatoid arthritis and autoimmune disorders",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Immunosuppressant",
+    "side_effects": "Low white blood cells",
+    "alternative": "Azoran 50"
+},
+{
+    "name": "Mycophenolate Mofetil 500",
+    "uses": "Organ transplant rejection prevention",
+    "price": "Rs. 685 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Immunosuppressant",
+    "side_effects": "Diarrhea, infection risk",
+    "alternative": "Cellcept 500"
+},
+{
+    "name": "Cellcept 500",
+    "uses": "Organ transplant",
+    "price": "Rs. 725 (Approx.)",
+    "manufacturer": "Roche",
+    "category": "Immunosuppressant",
+    "side_effects": "Nausea",
+    "alternative": "Mycophenolate Mofetil 500"
+},
+{
+    "name": "Tacrolimus 1",
+    "uses": "Organ transplant rejection prevention",
+    "price": "Rs. 425 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Immunosuppressant",
+    "side_effects": "Kidney toxicity",
+    "alternative": "Pangraf 1"
+},
+{
+    "name": "Pangraf 1",
+    "uses": "Post-transplant immunosuppression",
+    "price": "Rs. 445 (Approx.)",
+    "manufacturer": "Panacea Biotec",
+    "category": "Immunosuppressant",
+    "side_effects": "High blood pressure",
+    "alternative": "Tacrolimus 1"
+},
+{
+    "name": "Neoral 100",
+    "uses": "Autoimmune diseases",
+    "price": "Rs. 925 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Immunosuppressant",
+    "side_effects": "Kidney damage",
+    "alternative": "Cyclosporine 100"
+},
+{
+    "name": "Cyclosporine 100",
+    "uses": "Transplant medicine",
+    "price": "Rs. 885 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Immunosuppressant",
+    "side_effects": "High blood pressure",
+    "alternative": "Neoral 100"
+},
+{
+    "name": "Tamoxifen 20",
+    "uses": "Breast cancer treatment",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Hot flashes",
+    "alternative": "Tamofen 20"
+},
+{
+    "name": "Tamofen 20",
+    "uses": "Breast cancer",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Oncology",
+    "side_effects": "Nausea",
+    "alternative": "Tamoxifen 20"
+},
+{
+    "name": "Letrozole 2.5",
+    "uses": "Breast cancer",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Joint pain",
+    "alternative": "Femara 2.5"
+},
+{
+    "name": "Femara 2.5",
+    "uses": "Hormone-positive breast cancer",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Oncology",
+    "side_effects": "Bone pain",
+    "alternative": "Letrozole 2.5"
+},
+{
+    "name": "Imatinib 400",
+    "uses": "Chronic myeloid leukemia",
+    "price": "Rs. 1285 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Fluid retention",
+    "alternative": "Veenat 400"
+},
+{
+    "name": "Veenat 400",
+    "uses": "Leukemia treatment",
+    "price": "Rs. 1195 (Approx.)",
+    "manufacturer": "Natco",
+    "category": "Oncology",
+    "side_effects": "Muscle cramps",
+    "alternative": "Imatinib 400"
+},
+{
+    "name": "Geftinat 250",
+    "uses": "Lung cancer",
+    "price": "Rs. 2895 (Approx.)",
+    "manufacturer": "Natco",
+    "category": "Oncology",
+    "side_effects": "Skin rash",
+    "alternative": "Gefitinib 250"
+},
+{
+    "name": "Gefitinib 250",
+    "uses": "Non-small cell lung cancer",
+    "price": "Rs. 2750 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Diarrhea",
+    "alternative": "Geftinat 250"
+},
+{
+    "name": "Temonat 100",
+    "uses": "Brain tumors",
+    "price": "Rs. 3895 (Approx.)",
+    "manufacturer": "Natco",
+    "category": "Oncology",
+    "side_effects": "Vomiting",
+    "alternative": "Temozolomide 100"
+},
+{
+    "name": "Temozolomide 100",
+    "uses": "Brain cancer",
+    "price": "Rs. 3750 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Low blood counts",
+    "alternative": "Temonat 100"
+},
+{
+    "name": "Bortezomib Injection",
+    "uses": "Multiple myeloma",
+    "price": "Rs. 5250 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Oncology",
+    "side_effects": "Peripheral neuropathy",
+    "alternative": "Borviz Injection"
+},
+{
+    "name": "Borviz Injection",
+    "uses": "Blood cancer treatment",
+    "price": "Rs. 4950 (Approx.)",
+    "manufacturer": "Natco",
+    "category": "Oncology",
+    "side_effects": "Fatigue",
+    "alternative": "Bortezomib Injection"
+},
+{
+    "name": "Xarelto 10",
+    "uses": "Prevention of blood clots",
+    "price": "Rs. 425 (Approx.)",
+    "manufacturer": "Bayer",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Rivaroxaban 10"
+},
+{
+    "name": "Rivaroxaban 10",
+    "uses": "Blood thinner",
+    "price": "Rs. 395 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Xarelto 10"
+},
+{
+    "name": "Eliquis 5",
+    "uses": "Stroke prevention in atrial fibrillation",
+    "price": "Rs. 495 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Apixaban 5"
+},
+{
+    "name": "Apixaban 5",
+    "uses": "Treatment and prevention of blood clots",
+    "price": "Rs. 465 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Eliquis 5"
+},
+{
+    "name": "Brilinta 90",
+    "uses": "Heart attack prevention",
+    "price": "Rs. 675 (Approx.)",
+    "manufacturer": "AstraZeneca",
+    "category": "Cardiology",
+    "side_effects": "Shortness of breath",
+    "alternative": "Ticagrelor 90"
+},
+{
+    "name": "Ticagrelor 90",
+    "uses": "Acute coronary syndrome",
+    "price": "Rs. 625 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Brilinta 90"
+},
+{
+    "name": "Rosuvas 10",
+    "uses": "High cholesterol",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Muscle pain",
+    "alternative": "Rosuvastatin 10"
+},
+{
+    "name": "Rosuvastatin 10",
+    "uses": "Lower cholesterol",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Muscle pain",
+    "alternative": "Rosuvas 10"
+},
+{
+    "name": "Storvas 20",
+    "uses": "High cholesterol",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Atorvastatin 20"
+},
+{
+    "name": "Atorvastatin 20",
+    "uses": "Cholesterol control",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Muscle weakness",
+    "alternative": "Storvas 20"
+},
+{
+    "name": "Fenofibrate 160",
+    "uses": "High triglycerides",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Stomach upset",
+    "alternative": "Lipicard 160"
+},
+{
+    "name": "Lipicard 160",
+    "uses": "High cholesterol and triglycerides",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Cardiology",
+    "side_effects": "Liver enzyme elevation",
+    "alternative": "Fenofibrate 160"
+},
+{
+    "name": "Telma 40",
+    "uses": "High blood pressure",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Glenmark",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Telmisartan 40"
+},
+{
+    "name": "Telmisartan 40",
+    "uses": "Hypertension",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Telma 40"
+},
+{
+    "name": "Olmezest 20",
+    "uses": "High blood pressure",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Olmesartan 20"
+},
+{
+    "name": "Olmesartan 20",
+    "uses": "Hypertension",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Olmezest 20"
+},
+{
+    "name": "Concor 5",
+    "uses": "High blood pressure and heart failure",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Merck",
+    "category": "Cardiology",
+    "side_effects": "Slow heartbeat",
+    "alternative": "Bisoprolol 5"
+},
+{
+    "name": "Bisoprolol 5",
+    "uses": "Heart disease and hypertension",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Fatigue",
+    "alternative": "Concor 5"
+},
+{
+    "name": "Nebicard 5",
+    "uses": "High blood pressure",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Nebivolol 5"
+},
+{
+    "name": "Nebivolol 5",
+    "uses": "Hypertension",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Nebicard 5"
+},
+{
+    "name": "Cardace 5",
+    "uses": "High blood pressure and heart failure",
+    "price": "Rs. 168 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Cardiology",
+    "side_effects": "Dry cough, dizziness",
+    "alternative": "Ramipril 5"
+},
+{
+    "name": "Ramipril 5",
+    "uses": "Hypertension and heart protection",
+    "price": "Rs. 148 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dry cough",
+    "alternative": "Cardace 5"
+},
+{
+    "name": "Amlong 5",
+    "uses": "High blood pressure",
+    "price": "Rs. 82 (Approx.)",
+    "manufacturer": "Micro Labs",
+    "category": "Cardiology",
+    "side_effects": "Swelling of ankles",
+    "alternative": "Amlodipine 5"
+},
+{
+    "name": "Amlodipine 5",
+    "uses": "Hypertension",
+    "price": "Rs. 58 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Amlong 5"
+},
+{
+    "name": "Nicardia Retard 20",
+    "uses": "High blood pressure and angina",
+    "price": "Rs. 132 (Approx.)",
+    "manufacturer": "J.B. Chemicals",
+    "category": "Cardiology",
+    "side_effects": "Flushing",
+    "alternative": "Nifedipine 20"
+},
+{
+    "name": "Nifedipine 20",
+    "uses": "Hypertension",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Nicardia Retard 20"
+},
+{
+    "name": "Lanoxin 0.25",
+    "uses": "Heart failure and atrial fibrillation",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Cardiology",
+    "side_effects": "Nausea, vision changes",
+    "alternative": "Digoxin 0.25"
+},
+{
+    "name": "Digoxin 0.25",
+    "uses": "Heart rhythm disorders",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Irregular heartbeat",
+    "alternative": "Lanoxin 0.25"
+},
+{
+    "name": "Cordarone 200",
+    "uses": "Irregular heartbeat",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Sanofi",
+    "category": "Cardiology",
+    "side_effects": "Thyroid problems",
+    "alternative": "Amiodarone 200"
+},
+{
+    "name": "Amiodarone 200",
+    "uses": "Serious heart rhythm disorders",
+    "price": "Rs. 215 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Lung toxicity",
+    "alternative": "Cordarone 200"
+},
+{
+    "name": "Lasilactone 50",
+    "uses": "Edema and heart failure",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Frequent urination",
+    "alternative": "Spironolactone + Furosemide"
+},
+{
+    "name": "Spironolactone 25",
+    "uses": "Heart failure and edema",
+    "price": "Rs. 92 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "High potassium",
+    "alternative": "Aldactone 25"
+},
+{
+    "name": "Aldactone 25",
+    "uses": "Fluid retention and hypertension",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Pfizer",
+    "category": "Cardiology",
+    "side_effects": "Breast tenderness",
+    "alternative": "Spironolactone 25"
+},
+{
+    "name": "Ivabradine 5",
+    "uses": "Heart failure",
+    "price": "Rs. 285 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Slow heart rate",
+    "alternative": "Ivabrad 5"
+},
+{
+    "name": "Ivabrad 5",
+    "uses": "Chronic heart failure",
+    "price": "Rs. 295 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Cardiology",
+    "side_effects": "Visual brightness",
+    "alternative": "Ivabradine 5"
+},
+{
+    "name": "Nicorandil 5",
+    "uses": "Angina",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Nikoran 5"
+},
+{
+    "name": "Nikoran 5",
+    "uses": "Chest pain (Angina)",
+    "price": "Rs. 175 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Flushing",
+    "alternative": "Nicorandil 5"
+},
+{
+    "name": "Isordil 5",
+    "uses": "Angina relief",
+    "price": "Rs. 62 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Isosorbide Dinitrate 5"
+},
+{
+    "name": "Isosorbide Dinitrate 5",
+    "uses": "Chest pain prevention",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Isordil 5"
+},
+{
+    "name": "Monotrate 20",
+    "uses": "Long-term angina prevention",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Isosorbide Mononitrate 20"
+},
+{
+    "name": "Met XL 25",
+    "uses": "High blood pressure and heart disease",
+    "price": "Rs. 105 (Approx.)",
+    "manufacturer": "Ajanta Pharma",
+    "category": "Cardiology",
+    "side_effects": "Slow heart rate, dizziness",
+    "alternative": "Metoprolol XL 25"
+},
+{
+    "name": "Metoprolol XL 25",
+    "uses": "Hypertension and angina",
+    "price": "Rs. 95 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Fatigue",
+    "alternative": "Met XL 25"
+},
+{
+    "name": "Carvedilol 6.25",
+    "uses": "Heart failure and hypertension",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Carca 6.25"
+},
+{
+    "name": "Carca 6.25",
+    "uses": "High blood pressure",
+    "price": "Rs. 135 (Approx.)",
+    "manufacturer": "Intas",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Carvedilol 6.25"
+},
+{
+    "name": "Losar 50",
+    "uses": "High blood pressure",
+    "price": "Rs. 118 (Approx.)",
+    "manufacturer": "Unichem",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Losartan 50"
+},
+{
+    "name": "Losartan 50",
+    "uses": "Hypertension",
+    "price": "Rs. 98 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Losar 50"
+},
+{
+    "name": "Cozaar 50",
+    "uses": "Blood pressure control",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "MSD",
+    "category": "Cardiology",
+    "side_effects": "Fatigue",
+    "alternative": "Losartan 50"
+},
+{
+    "name": "Valsartan 80",
+    "uses": "High blood pressure",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Valzaar 80"
+},
+{
+    "name": "Valzaar 80",
+    "uses": "Hypertension",
+    "price": "Rs. 155 (Approx.)",
+    "manufacturer": "Torrent",
+    "category": "Cardiology",
+    "side_effects": "Dizziness",
+    "alternative": "Valsartan 80"
+},
+{
+    "name": "Diovan 80",
+    "uses": "High blood pressure and heart failure",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Novartis",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Valsartan 80"
+},
+{
+    "name": "Clopivas 75",
+    "uses": "Prevention of heart attack and stroke",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Cipla",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Clopidogrel 75"
+},
+{
+    "name": "Clopidogrel 75",
+    "uses": "Blood thinner",
+    "price": "Rs. 145 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bruising",
+    "alternative": "Clopivas 75"
+},
+{
+    "name": "Ecospirin Gold 20",
+    "uses": "Heart attack prevention",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "USV",
+    "category": "Cardiology",
+    "side_effects": "Stomach irritation",
+    "alternative": "Rosuvas Gold"
+},
+{
+    "name": "Rosuvas Gold 20",
+    "uses": "Cholesterol and heart protection",
+    "price": "Rs. 225 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Cardiology",
+    "side_effects": "Muscle pain",
+    "alternative": "Ecospirin Gold 20"
+},
+{
+    "name": "Nitroglycerin Spray",
+    "uses": "Immediate relief of angina",
+    "price": "Rs. 485 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Headache",
+    "alternative": "Nitrolingual Spray"
+},
+{
+    "name": "Nitrolingual Spray",
+    "uses": "Chest pain relief",
+    "price": "Rs. 525 (Approx.)",
+    "manufacturer": "G. Pohl-Boskamp",
+    "category": "Cardiology",
+    "side_effects": "Low blood pressure",
+    "alternative": "Nitroglycerin Spray"
+},
+{
+    "name": "Dabigatran 110",
+    "uses": "Prevention of blood clots",
+    "price": "Rs. 395 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Bleeding",
+    "alternative": "Pradaxa 110"
+},
+{
+    "name": "Pradaxa 110",
+    "uses": "Stroke prevention",
+    "price": "Rs. 445 (Approx.)",
+    "manufacturer": "Boehringer Ingelheim",
+    "category": "Cardiology",
+    "side_effects": "Stomach upset",
+    "alternative": "Dabigatran 110"
+},
+{
+    "name": "Aten 50",
+    "uses": "High blood pressure",
+    "price": "Rs. 65 (Approx.)",
+    "manufacturer": "Zydus",
+    "category": "Cardiology",
+    "side_effects": "Fatigue",
+    "alternative": "Atenolol 50"
+},
+{
+    "name": "Atenolol 50",
+    "uses": "Hypertension and angina",
+    "price": "Rs. 55 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Cardiology",
+    "side_effects": "Slow pulse",
+    "alternative": "Aten 50"
+},
+{
+    "name": "Thyronorm 25",
+    "uses": "Hypothyroidism",
+    "price": "Rs. 148 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Endocrinology",
+    "side_effects": "Palpitations if overdosed",
+    "alternative": "Levothyroxine 25"
+},
+{
+    "name": "Levothyroxine 25",
+    "uses": "Thyroid hormone replacement",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Endocrinology",
+    "side_effects": "Fast heartbeat",
+    "alternative": "Thyronorm 25"
+},
+{
+    "name": "Eltroxin 50",
+    "uses": "Hypothyroidism",
+    "price": "Rs. 138 (Approx.)",
+    "manufacturer": "GlaxoSmithKline",
+    "category": "Endocrinology",
+    "side_effects": "Insomnia",
+    "alternative": "Thyronorm 50"
+},
+{
+    "name": "Thyronorm 50",
+    "uses": "Low thyroid hormone",
+    "price": "Rs. 158 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Endocrinology",
+    "side_effects": "Weight loss if overdosed",
+    "alternative": "Eltroxin 50"
+},
+{
+    "name": "Neo Mercazole 5",
+    "uses": "Hyperthyroidism",
+    "price": "Rs. 185 (Approx.)",
+    "manufacturer": "Abbott",
+    "category": "Endocrinology",
+    "side_effects": "Skin rash",
+    "alternative": "Carbimazole 5"
+},
+{
+    "name": "Carbimazole 5",
+    "uses": "Overactive thyroid",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Endocrinology",
+    "side_effects": "Joint pain",
+    "alternative": "Neo Mercazole 5"
+},
+{
+    "name": "Methimazole 10",
+    "uses": "Hyperthyroidism",
+    "price": "Rs. 195 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Endocrinology",
+    "side_effects": "Fever, sore throat",
+    "alternative": "Carbimazole 5"
+},
+{
+    "name": "Predmet 4",
+    "uses": "Inflammation and allergies",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Steroid",
+    "side_effects": "Weight gain",
+    "alternative": "Methylprednisolone 4"
+},
+{
+    "name": "Methylprednisolone 4",
+    "uses": "Autoimmune disorders",
+    "price": "Rs. 62 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Steroid",
+    "side_effects": "Increased appetite",
+    "alternative": "Predmet 4"
+},
+{
+    "name": "Defcort 6",
+    "uses": "Inflammatory diseases",
+    "price": "Rs. 178 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Steroid",
+    "side_effects": "Weight gain",
+    "alternative": "Deflazacort 6"
+},
+{
+    "name": "Deflazacort 6",
+    "uses": "Inflammation and allergies",
+    "price": "Rs. 165 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Steroid",
+    "side_effects": "High blood sugar",
+    "alternative": "Defcort 6"
+},
+{
+    "name": "Omnacortil 10",
+    "uses": "Allergic and autoimmune disorders",
+    "price": "Rs. 82 (Approx.)",
+    "manufacturer": "Macleods",
+    "category": "Steroid",
+    "side_effects": "Mood changes",
+    "alternative": "Prednisolone 10"
+},
+{
+    "name": "Prednisolone 10",
+    "uses": "Inflammation",
+    "price": "Rs. 72 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Steroid",
+    "side_effects": "Increased infection risk",
+    "alternative": "Omnacortil 10"
+},
+{
+    "name": "Hydrocortisone Cream",
+    "uses": "Skin inflammation and eczema",
+    "price": "Rs. 88 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin thinning",
+    "alternative": "Lobate Cream"
+},
+{
+    "name": "Lobate Cream",
+    "uses": "Eczema and dermatitis",
+    "price": "Rs. 115 (Approx.)",
+    "manufacturer": "Lupin",
+    "category": "Dermatology",
+    "side_effects": "Burning sensation",
+    "alternative": "Hydrocortisone Cream"
+},
+{
+    "name": "Betnovate Cream",
+    "uses": "Skin allergies and eczema",
+    "price": "Rs. 78 (Approx.)",
+    "manufacturer": "GSK",
+    "category": "Dermatology",
+    "side_effects": "Skin thinning",
+    "alternative": "Betamethasone Cream"
+},
+{
+    "name": "Betamethasone Cream",
+    "uses": "Inflammatory skin disorders",
+    "price": "Rs. 68 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Betnovate Cream"
+},
+{
+    "name": "Quadriderm RF",
+    "uses": "Mixed fungal and bacterial skin infections",
+    "price": "Rs. 125 (Approx.)",
+    "manufacturer": "Fulford",
+    "category": "Dermatology",
+    "side_effects": "Burning sensation",
+    "alternative": "Candid B Cream"
+},
+{
+    "name": "Luliconazole Cream",
+    "uses": "Ringworm and fungal infection",
+    "price": "Rs. 245 (Approx.)",
+    "manufacturer": "Various",
+    "category": "Dermatology",
+    "side_effects": "Skin irritation",
+    "alternative": "Lulifin Cream"
+},
+{
+    "name": "Lulifin Cream",
+    "uses": "Fungal skin infection",
+    "price": "Rs. 235 (Approx.)",
+    "manufacturer": "Sun Pharma",
+    "category": "Dermatology",
+    "side_effects": "Itching",
+    "alternative": "Luliconazole Cream"
+}
+
+
+
+]

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Result</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="hero">
+
+    <div class="hero-content">
+
+        <h2 class="section-title">📋 Prescription Details</h2>
+
+        <img
+        src="{{ url_for('static', filename='uploads/' + image) }}"
+        class="uploaded-image">
+
+        <br><br>
+
+        <h2>📝 OCR Extracted Text</h2>
+
+        <pre style="background:white;padding:20px;border-radius:10px;text-align:left;max-width:700px;margin:auto;white-space:pre-wrap;">{{ text }}</pre>
+
+        <br><br>
+
+        <h2 class="section-title">💊 Medicines Found</h2>
+
+        {% if medicines %}
+
+            {% for medicine in medicines %}
+
+                <div class="medicine-card">
+
+                    <div class="result-card">
+
+                        <h3>{{ medicine.name }}</h3>
+
+                        <p><b>Uses :</b> {{ medicine.uses }}</p>
+
+                        <p><b>Price :</b> {{ medicine.price }}</p>
+
+                        <p><b>Side Effects :</b> {{ medicine.side_effects }}</p>
+
+                        <p><b>Alternative :</b> {{ medicine.alternative }}</p>
+
+                    </div>
+                </div>
+
+            {% endfor %}
+
+        {% else %}
+
+            <div style="background:#fff3cd;padding:20px;border-radius:10px;max-width:700px;margin:auto;">
+                <h3>No Medicine Found in Database</h3>
+                <p>Add more medicines to <b>database/medicines.json</b>.</p>
+            </div>
+
+        {% endif %}
+
+        <br>
+
+
+                <hr>
+
+                <h2>📋 Prescription Details</h2>
+
+                <div class="details-card">
+
+                    <p>
+                        <b>💊 Dose :</b>
+
+                        {% if details.dose %}
+                            {{ details.dose | join(", ") }}
+                        {% else %}
+                            Not Found
+                        {% endif %}
+                    </p>
+
+                    <p>
+                        <b>🍽 Timing :</b>
+
+                        {% if details.timing %}
+                            {{ details.timing | join(", ") }}
+                        {% else %}
+                            Not Found
+                        {% endif %}
+                    </p>
+
+                    <p>
+                        <b>📅 Duration :</b>
+
+                        {% if details.duration %}
+                            {{ details.duration | join(", ") }}
+                        {% else %}
+                            Not Found
+                        {% endif %}
+                    </p>
+
+                </div>
+
+                <br>
+
+                <br><br>
+
+            <a href="/download">
+                <button class="upload-btn">
+                    📄 Download PDF Report
+                </button>
+            </a>
+
+<br><br>
+
+
+        <a href="/">
+            <button class="upload-btn">
+                Upload Another Prescription
+            </button>
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

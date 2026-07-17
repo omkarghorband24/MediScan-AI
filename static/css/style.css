@@ -1,0 +1,718 @@
+/* ==========================
+   Google Font
+========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* ==========================
+   Reset
+========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#eef4ff;
+}
+
+
+
+
+
+
+
+/* ==========================
+   Navbar
+========================== */
+
+.navbar{
+    width:100%;
+    height:75px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:0 8%;
+
+    background:#1565c0;
+    color:white;
+
+    position:fixed;
+    top:0;
+    left:0;
+
+    z-index:1000;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
+
+.logo{
+    font-size:28px;
+    font-weight:700;
+}
+
+.nav-links{
+    display:flex;
+    list-style:none;
+    gap:30px;
+}
+
+.nav-links a{
+    text-decoration:none;
+    color:white;
+    font-size:18px;
+    transition:.3s;
+}
+
+.nav-links a:hover{
+    color:#ffd54f;
+}
+
+
+
+
+
+
+
+
+
+
+/* ==========================
+   Hero
+========================== */
+
+.hero{
+    min-height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:120px 20px 50px;
+}
+
+.hero-content{
+    max-width:800px;
+}
+
+.hero h1{
+    font-size:55px;
+    color:#1565c0;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:20px;
+    line-height:1.8;
+    color:#555;
+    margin-bottom:40px;
+}
+
+/* ==========================
+   Buttons
+========================== */
+
+.buttons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.upload-btn,
+.search-btn{
+
+    padding:15px 35px;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+    transition:.3s;
+}
+
+.upload-btn{
+
+    background:#1565c0;
+    color:white;
+
+}
+
+.search-btn{
+
+    background:white;
+    color:#1565c0;
+
+    border:2px solid #1565c0;
+
+}
+
+.upload-btn:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.search-btn:hover{
+
+    background:#1565c0;
+    color:white;
+
+}
+
+/* ==========================
+   Features
+========================== */
+
+.features{
+
+    width:90%;
+
+    margin:40px auto 80px;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:25px;
+
+}
+
+.card{
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.1);
+
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.card h2{
+
+    color:#1565c0;
+
+    margin-bottom:15px;
+
+}
+
+/* ==========================
+   Footer
+========================== */
+
+footer{
+
+    background:#1565c0;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+}
+
+
+
+/* ==========================
+Upload Box
+========================== */
+
+.upload-box{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+#previewImage{
+
+    width:350px;
+
+    margin-top:25px;
+
+    border-radius:15px;
+
+    display:none;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.2);
+
+}
+
+#removeBtn{
+
+    margin-top:20px;
+
+    display:none;
+
+    padding:12px 30px;
+
+    border:none;
+
+    background:red;
+
+    color:white;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
+
+
+.search-section{
+
+    margin-top:60px;
+
+}
+
+.search-section input{
+
+    width:350px;
+
+    padding:15px;
+
+    border-radius:10px;
+
+    border:2px solid #1565c0;
+
+    font-size:18px;
+
+}
+
+.search-section button{
+
+    margin-left:10px;
+
+}
+
+
+
+.result-card{
+    width: 80%;
+    margin: 20px auto;
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.result-card h3{
+    color:#1565c0;
+    margin-bottom:15px;
+}
+
+.result-card p{
+    font-size:18px;
+    margin:10px 0;
+}
+
+.details-card{
+    width:80%;
+    margin:20px auto;
+    background:#f8f9fa;
+    border-left:6px solid #1565c0;
+    border-radius:12px;
+    padding:20px;
+}
+
+.details-card h2{
+    color:#1565c0;
+}
+
+.uploaded-image{
+    width:350px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.3);
+}
+
+
+
+
+
+.hero{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:linear-gradient(135deg,#1565c0,#42a5f5);
+
+    padding:100px 40px 40px 40px;
+}
+
+
+
+
+.hero-content{
+
+    width:900px;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:0 20px 50px rgba(0,0,0,.25);
+
+}
+
+.hero-content h1{
+
+    color:#1565c0;
+
+    margin-bottom:25px;
+
+    font-size:40px;
+
+}
+
+
+.upload-btn{
+
+    background:#1565c0;
+
+    color:white;
+
+    border:none;
+
+    padding:15px 35px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+    transition:.3s;
+}
+
+.upload-btn:hover{
+
+    transform:translateY(-3px);
+
+    background:#0d47a1;
+}
+
+
+.search-btn{
+
+    background:#2e7d32;
+
+    color:white;
+
+    border:none;
+
+    padding:15px 30px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    font-size:17px;
+
+    transition:.3s;
+}
+
+.search-btn:hover{
+
+    background:#1b5e20;
+}
+
+
+
+
+.result-card{
+
+    transition:.3s;
+}
+
+.result-card:hover{
+
+    transform:scale(1.02);
+}
+
+
+
+
+
+/* Input Fields */
+
+input[type="file"],
+input[type="text"]{
+
+    width:100%;
+
+    padding:14px;
+
+    margin:12px 0;
+
+    border:2px solid #d6d6d6;
+
+    border-radius:10px;
+
+    font-size:16px;
+
+    transition:.3s;
+}
+
+input[type="file"]:hover,
+input[type="text"]:focus{
+
+    border-color:#1565c0;
+
+    outline:none;
+}
+
+
+/* Medicine Cards */
+
+.medicine-card{
+
+    background:#ffffff;
+
+    width:80%;
+
+    margin:20px auto;
+
+    border-radius:15px;
+
+    padding:20px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+    transition:.3s;
+}
+
+.medicine-card:hover{
+
+    transform:translateY(-5px);
+}
+
+.medicine-card h3{
+
+    color:#1565c0;
+
+    margin-bottom:10px;
+}
+
+.medicine-card p{
+
+    margin:8px 0;
+
+    font-size:17px;
+}
+
+
+/* Footer */
+
+footer{
+
+    background:#0d47a1;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+    margin-top:50px;
+}
+
+
+
+
+
+/* Smooth Animation */
+
+*{
+    scroll-behavior: smooth;
+}
+
+button{
+    transition: all .3s ease;
+}
+
+img{
+    transition: .3s;
+}
+
+img:hover{
+    transform: scale(1.03);
+}
+
+/* Section Title */
+
+.section-title{
+
+    color:#1565c0;
+
+    text-align:center;
+
+    font-size:32px;
+
+    margin:25px 0;
+
+}
+
+/* Horizontal Line */
+
+hr{
+
+    border:none;
+
+    height:2px;
+
+    background:#d9d9d9;
+
+    margin:30px auto;
+
+    width:80%;
+}
+
+
+/* ==========================
+   Responsive Navbar
+========================== */
+
+@media (max-width: 768px){
+
+    .navbar{
+        height:90px;
+        padding:15px 20px;
+        flex-direction:column;
+        gap:15px;
+        
+    }
+
+    .logo{
+        font-size:24px;
+    }
+
+    .nav-links{
+        width:100%;
+        display:flex;
+        justify-content:center;
+        position: absolute;
+        bottom: 12px;
+        flex-wrap:wrap;
+        gap:15px;
+    }
+
+    .nav-links a{
+        font-size:16px;
+    }
+
+}
+
+
+
+
+/* ==========================
+   LOADING SCREEN
+========================== */
+
+#loading-screen{
+
+    position:fixed;
+
+    top:0;
+
+    left:0;
+
+    width:100%;
+
+    height:100vh;
+
+    background:rgba(255,255,255,.96);
+
+    display:none;
+
+    justify-content:center;
+
+    align-items:center;
+
+    flex-direction:column;
+
+    z-index:99999;
+
+}
+
+.loader{
+
+    width:75px;
+
+    height:75px;
+
+    border:8px solid #e0e0e0;
+
+    border-top:8px solid #1565c0;
+
+    border-radius:50%;
+
+    animation:spin 1s linear infinite;
+
+}
+
+#loading-screen h2{
+
+    margin-top:25px;
+
+    font-size:30px;
+
+    color:#1565c0;
+
+}
+
+#loading-screen p{
+
+    margin-top:10px;
+
+    color:#666;
+
+    font-size:17px;
+
+}
+
+@keyframes spin{
+
+    100%{
+
+        transform:rotate(360deg);
+
+    }
+
+}

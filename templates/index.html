@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Prescription Analyzer</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar">
+
+        <div class="logo">
+            🩺 MediScan AI
+        </div>
+       
+
+        <ul class="nav-links">
+
+            <li><a href="/">Home</a></li>
+
+            <li><a href="/about">About</a></li>
+
+            <li><a href="/features">Features</a></li>
+
+            <li><a href="/contact">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+    <!-- ================= HERO SECTION ================= -->
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <h1>AI Prescription Analyzer</h1>
+
+            <p>
+                Upload your doctor's prescription and
+                instantly identify medicines with detailed information.
+            </p>
+
+                <form action="/upload" method="POST" enctype="multipart/form-data">
+
+                    <div class="upload-box">
+
+                        <input
+                            type="file"
+                            name="image"
+                            id="imageInput"
+                            accept="image/*"
+                            hidden
+                        >
+
+                        <label for="imageInput" class="upload-btn">
+                            📷 Choose Prescription
+                        </label>
+
+                        <img id="previewImage">
+
+                        <button
+                            type="button"
+                            id="removeBtn">
+
+                            ❌ Remove Image
+
+                        </button>
+
+                        <br><br>
+
+                        <button
+                            type="submit"
+                            class="search-btn">
+
+                            🔍 Analyze Prescription
+
+                        </button>
+
+                    </div>
+
+                </form>
+
+                <br><br>
+
+                <div class="search-section">
+
+                     <h2>Search Medicine Manually</h2>
+
+                    <form action="/search" method="POST">
+
+                    <input
+                        type="text"
+                        name="medicine"
+                        placeholder="Enter Medicine Name"
+                        required>
+
+                    <button
+                        type="submit"
+                         class="search-btn">
+
+                        Search
+
+                    </button>
+
+            </form>
+
+        </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= FEATURES ================= -->
+
+    <section class="features">
+
+        <div class="card">
+
+            <h2>📷 Upload Image</h2>
+
+            <p>
+                Upload a handwritten prescription.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h2>🤖 AI Analysis</h2>
+
+            <p>
+                AI reads medicine names from the prescription.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h2>💊 Medicine Details</h2>
+
+            <p>
+                View uses, dosage, side effects and alternatives.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <p>
+            © 2026 AI Prescription Analyzer | Created by Omkar Ghorband
+        </p>
+
+    </footer>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+
+
+    <div id="loading-screen">
+
+    <div class="loader"></div>
+
+    <h2>Analyzing Prescription...</h2>
+
+    <p>Please wait while AI processes your prescription.</p>
+
+</div>
+
+<script>
+
+const uploadForm = document.querySelector('form');
+
+uploadForm.addEventListener("submit", function(){
+
+    document.getElementById("loading-screen").style.display = "flex";
+
+});
+
+</script>
+
+
+
+
+
+
+</body>
+</html>
