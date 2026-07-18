@@ -92,10 +92,12 @@ def contact():
         # SEND EMAIL
         # ==========================
 
-        sender_email = "omkarghorband24@gmail.com"
-        receiver_email = "omkarghorband24@gmail.com"
-        app_password = "whyozorszohysqga"
+        import os
 
+        sender_email = os.environ.get("EMAIL_ADDRESS")
+        receiver_email = os.environ.get("EMAIL_ADDRESS")
+        app_password = os.environ.get("EMAIL_PASSWORD")
+        
         try:
 
             import smtplib
