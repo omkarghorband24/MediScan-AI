@@ -186,6 +186,20 @@
 
                     </div>
 
+
+
+                    <div id="success-message" style="display:none; color:green; margin-bottom:15px; font-weight:bold;">
+                            ✅ Your form has been submitted successfully!
+                    </div>
+
+                    <script>
+                        const params = new URLSearchParams(window.location.search);
+
+                        if (params.get("success") === "true") {
+                            document.getElementById("success-message").style.display = "block";
+                        }
+                    </script>
+
                     <button type="submit">
 
                         <i class="fa-solid fa-paper-plane"></i>
