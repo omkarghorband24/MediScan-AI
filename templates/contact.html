@@ -155,7 +155,12 @@
                 </div>
                 {% endif %}
 
-                <form action="/contact" method="POST">
+                <form action="https://api.web3forms.com/submit" method="POST">
+                    <input type="hidden" name="access_key" value="2e669cfd-fcc1-4db2-badc-f2e3bc8d9467">
+
+                    <input type="hidden" name="redirect" value="https://mediscan-ai-1-3dgu.onrender.com/contact">
+
+                    <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
 
                     <div class="input-box">
 
